@@ -2,10 +2,10 @@
 # abre minecraft
 # 
 # el server te va a durar aprox 60 horas con los 2 cores
-# si te va el server lo puedes cambiar a 4 cores pero te va a durar 30 horas
-# para que se guarde le das a stop en la terminal y sigues las intrucciones
-# control+ins para pegar en la terminal
-# 
+# si te va el server lo puedes cambiar a 4 cores pero te va a durar 30 horas.
+# para que se guarde le das a stop en la terminal y sigues las intrucciones.
+# control+ins para pegar en la terminal.
+# te apagare el sv para que use los 2 cores y te dure 60 horas.
 # iniciamos para que nos cree los archivos necesarios
 #
 import requests,os,base64,glob,time
