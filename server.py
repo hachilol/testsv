@@ -5,9 +5,9 @@
 # si te va el server lo puedes cambiar a 4 cores pero te va a durar 30 horas.
 # para que se guarde le das a stop en la terminal y sigues las intrucciones.
 # control+ins para pegar en la terminal.
-# te apagare el sv para que use los 2 cores y te dure 60 horas.
 # iniciamos para que nos cree los archivos necesarios
-#
+# disfruta
+# cuando de te diga Done esta listo pa entrar.
 import requests,os,base64,glob,time
 if os.path.exists("servidor.py"):
 	os.remove("servidor.py")
