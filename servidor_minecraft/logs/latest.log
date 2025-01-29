@@ -1,103 +1,42 @@
-[03:24:17] [main/INFO]: Loading Minecraft 1.16.5 with Fabric Loader 0.16.3
-[03:24:17] [main/INFO]: Loading 4 mods:
+[17:33:09] [main/INFO]: Loading Minecraft 1.16.5 with Fabric Loader 0.16.3
+[17:33:10] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 11
 	- minecraft 1.16.5
-[03:24:18] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/testsv/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[03:24:26] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03:24:28] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[03:24:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03:24:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03:24:28] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[03:24:28] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03:24:28] [main/INFO]: Reloading ResourceManager: Default, OnePlayerSleepV3_1.zip
-[03:24:31] [Worker-Main-2/INFO]: Loaded 7 recipes
-[03:24:32] [Worker-Main-2/INFO]: Loaded 927 advancements
-[03:24:35] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[03:24:35] [Server thread/INFO]: Loading properties
-[03:24:35] [Server thread/WARN]: Invalid sha1 for ressource-pack-sha1
-[03:24:35] [Server thread/INFO]: Default game type: SURVIVAL
-[03:24:35] [Server thread/INFO]: Generating keypair
-[03:24:36] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:24:36] [Server thread/INFO]: Using epoll channel type
-[03:24:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:24:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:24:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:24:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:24:37] [Server thread/INFO]: Preparing level "world"
-[03:24:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:24:41] [Server thread/INFO]: Preparing spawn area: 0%
-[03:24:41] [Server thread/INFO]: Preparing spawn area: 0%
-[03:24:41] [Server thread/INFO]: Preparing spawn area: 0%
-[03:24:41] [Server thread/INFO]: Preparing spawn area: 0%
-[03:24:41] [Server thread/INFO]: Preparing spawn area: 0%
-[03:24:41] [Server thread/INFO]: Preparing spawn area: 0%
-[03:24:41] [Server thread/INFO]: Preparing spawn area: 0%
-[03:24:41] [Server thread/INFO]: Preparing spawn area: 0%
-[03:24:41] [Server thread/INFO]: Preparing spawn area: 0%
-[03:24:41] [Server thread/INFO]: Preparing spawn area: 0%
-[03:24:42] [Server thread/INFO]: Preparing spawn area: 0%
-[03:24:43] [Server thread/INFO]: Time elapsed: 5921 ms
-[03:24:43] [Server thread/INFO]: Done (6.193s)! For help, type "help"
-[03:26:45] [Server thread/INFO]: Och8Z[/127.27.2.94:37995] logged in with entity id 107 at (-89.05406935804356, 68.875, 770.4578463308569)
-[03:26:45] [Server thread/INFO]: Och8Z joined the game
-[03:27:07] [Server thread/INFO]: Made Och8Z a server operator
-[03:27:13] [Server thread/INFO]: [Och8Z: Set own game mode to Creative Mode]
-[03:28:18] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[03:28:18] [Server thread/INFO]: Found that the dragon has been killed in this world already.
-[03:30:21] [Server thread/INFO]: [Och8Z: The difficulty has been set to Peaceful]
-[03:30:29] [Server thread/INFO]: [Och8Z: The difficulty has been set to Hard]
-[03:31:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Stick'/2508, l='ServerLevel[world]', x=331.29, y=0.57, z=-12.48]
-[03:31:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/2509, l='ServerLevel[world]', x=329.64, y=0.73, z=-10.43]
-[03:31:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Oak Sapling'/2516, l='ServerLevel[world]', x=332.52, y=0.66, z=-15.53]
-[03:31:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/2527, l='ServerLevel[world]', x=326.47, y=0.41, z=-4.35]
-[03:31:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Oak Sapling'/2528, l='ServerLevel[world]', x=329.62, y=0.67, z=-0.43]
-[03:47:46] [Server thread/INFO]: [Och8Z: Successfully filled 641 blocks]
-[03:54:08] [Server thread/INFO]: [Och8Z: Set own game mode to Survival Mode]
-[03:57:20] [Server thread/INFO]: [Och8Z: Set own game mode to Creative Mode]
-[03:59:31] [Server thread/INFO]: [Och8Z: Set own game mode to Survival Mode]
-[03:59:50] [Server thread/INFO]: [Och8Z: Set own game mode to Creative Mode]
-[04:02:28] [Server thread/INFO]: [Och8Z: Set own game mode to Survival Mode]
-[04:02:43] [Server thread/INFO]: [Och8Z: Set own game mode to Creative Mode]
-[04:05:34] [Server thread/INFO]: [Och8Z: Set own game mode to Survival Mode]
-[04:08:07] [Server thread/INFO]: [Och8Z: Set own game mode to Creative Mode]
-[04:08:38] [Server thread/INFO]: [Och8Z: Set own game mode to Survival Mode]
-[04:09:00] [Server thread/INFO]: [Och8Z: Set own game mode to Creative Mode]
-[04:09:07] [Server thread/INFO]: [Och8Z: Set own game mode to Survival Mode]
-[04:09:55] [Server thread/INFO]: [Och8Z: Set own game mode to Creative Mode]
-[04:10:57] [Server thread/INFO]: [Och8Z: Set own game mode to Survival Mode]
-[04:15:30] [Server thread/INFO]: [Och8Z: Set own game mode to Creative Mode]
-[04:15:42] [Server thread/INFO]: [Och8Z: Set own game mode to Survival Mode]
-[04:16:53] [Server thread/INFO]: [Och8Z: Set own game mode to Creative Mode]
-[04:22:10] [Server thread/INFO]: [Och8Z: Set own game mode to Survival Mode]
-[04:24:17] [Server thread/INFO]: [Och8Z: Set own game mode to Creative Mode]
-[04:24:56] [Server thread/INFO]: [Och8Z: Set own game mode to Survival Mode]
-[04:27:58] [Server thread/INFO]: [Och8Z: Set own game mode to Creative Mode]
-[04:28:37] [Server thread/INFO]: [Och8Z: Set own game mode to Survival Mode]
-[04:29:54] [Server thread/INFO]: [Och8Z: Set own game mode to Creative Mode]
-[04:30:52] [Server thread/INFO]: [Och8Z: Set own game mode to Survival Mode]
-[04:37:47] [Server thread/INFO]: [Och8Z: Set own game mode to Creative Mode]
-[04:37:50] [Server thread/INFO]: [Och8Z: Set own game mode to Survival Mode]
-[04:38:06] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[04:38:06] [Server thread/INFO]: hola<--[HERE]
-[04:40:08] [Server thread/INFO]: [Och8Z: Set own game mode to Creative Mode]
-[04:40:13] [Server thread/INFO]: [Och8Z: Set own game mode to Survival Mode]
-[05:04:44] [Server thread/INFO]: [Och8Z: Set own game mode to Creative Mode]
-[05:05:36] [Server thread/INFO]: [Och8Z: Set own game mode to Survival Mode]
-[05:05:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-3, y=113, z=637}
-[05:06:30] [Server thread/INFO]: Och8Z lost connection: Disconnected
-[05:06:30] [Server thread/INFO]: Och8Z left the game
-[05:06:37] [Server thread/INFO]: Stopping the server
-[05:06:37] [Server thread/INFO]: Stopping server
-[05:06:37] [Server thread/INFO]: Saving players
-[05:06:37] [Server thread/INFO]: Saving worlds
-[05:06:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[05:06:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:06:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[05:06:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:06:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[05:06:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:06:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:06:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:06:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:33:10] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/testsv/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[17:33:16] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:33:17] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:33:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:33:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:33:17] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:33:17] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:33:17] [main/INFO]: Reloading ResourceManager: Default, OnePlayerSleepV3_1.zip
+[17:33:18] [Worker-Main-2/INFO]: Loaded 7 recipes
+[17:33:19] [Worker-Main-2/INFO]: Loaded 927 advancements
+[17:33:21] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[17:33:21] [Server thread/INFO]: Loading properties
+[17:33:21] [Server thread/WARN]: Invalid sha1 for ressource-pack-sha1
+[17:33:21] [Server thread/INFO]: Default game type: SURVIVAL
+[17:33:21] [Server thread/INFO]: Generating keypair
+[17:33:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:33:21] [Server thread/INFO]: Using epoll channel type
+[17:33:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:33:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:33:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:33:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:33:22] [Server thread/INFO]: Preparing level "world"
+[17:33:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:33:24] [Server thread/INFO]: Preparing spawn area: 0%
+[17:33:24] [Server thread/INFO]: Preparing spawn area: 0%
+[17:33:24] [Server thread/INFO]: Preparing spawn area: 0%
+[17:33:24] [Server thread/INFO]: Preparing spawn area: 0%
+[17:33:24] [Server thread/INFO]: Preparing spawn area: 0%
+[17:33:24] [Server thread/INFO]: Preparing spawn area: 97%
+[17:33:25] [Server thread/INFO]: Time elapsed: 2788 ms
+[17:33:25] [Server thread/INFO]: Done (3.080s)! For help, type "help"
+[17:34:47] [Server thread/INFO]: Och8Z[/127.27.2.94:44401] logged in with entity id 107 at (-87.90152159156294, 68.0, 773.3234007785612)
+[17:34:47] [Server thread/INFO]: Och8Z joined the game
+[17:36:51] [Server thread/INFO]: Och8Z has made the advancement [Ol' Betsy]
+[17:38:38] [Server thread/INFO]: [Och8Z: Set own game mode to Creative Mode]
+[17:38:49] [Server thread/INFO]: [Och8Z: Set own game mode to Survival Mode]
