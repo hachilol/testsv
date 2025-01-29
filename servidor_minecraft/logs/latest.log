@@ -53,3 +53,5 @@
 [21:24:06] [Server thread/INFO]: [Och8Z: Set own game mode to Creative Mode]
 [21:29:04] [Server thread/INFO]: [Och8Z: Set own game mode to Survival Mode]
 [21:30:13] [Server thread/INFO]: [Och8Z: Set own game mode to Creative Mode]
+[21:49:05] [Server thread/INFO]: Villager class_1646['Villager'/32609, l='ServerLevel[world]', x=-62.06, y=52.48, z=821.68] died, message: 'Villager tried to swim in lava to escape Och8Z'
+[21:49:55] [Server thread/INFO]: Villager class_1646['Villager'/32417, l='ServerLevel[world]', x=-61.46, y=52.33, z=819.30] died, message: 'Villager tried to swim in lava'
