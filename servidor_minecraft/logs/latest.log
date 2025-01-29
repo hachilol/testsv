@@ -53,3 +53,5 @@
 [03:31:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Oak Sapling'/2516, l='ServerLevel[world]', x=332.52, y=0.66, z=-15.53]
 [03:31:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/2527, l='ServerLevel[world]', x=326.47, y=0.41, z=-4.35]
 [03:31:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Oak Sapling'/2528, l='ServerLevel[world]', x=329.62, y=0.67, z=-0.43]
+[03:47:46] [Server thread/INFO]: [Och8Z: Successfully filled 641 blocks]
+[03:54:08] [Server thread/INFO]: [Och8Z: Set own game mode to Survival Mode]
