@@ -40,3 +40,12 @@
 [20:50:22] [Server thread/INFO]: Och8Z joined the game
 [20:50:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
 [20:50:44] [Server thread/INFO]: [Och8Z: Set own game mode to Survival Mode]
+[21:13:45] [Server thread/INFO]: [Och8Z: Set own game mode to Creative Mode]
+[21:15:27] [Server thread/INFO]: [Och8Z: Set own game mode to Survival Mode]
+[21:16:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-70, y=67, z=792} class_2338{x=-70, y=66, z=793}
+[21:16:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-70, y=67, z=792} class_2338{x=-70, y=66, z=793}
+[21:16:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-70, y=67, z=792} class_2338{x=-70, y=66, z=793}
+[21:16:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-70, y=67, z=792} class_2338{x=-70, y=66, z=793}
+[21:16:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-70, y=67, z=792} class_2338{x=-70, y=66, z=793}
+[21:16:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-70, y=67, z=792} class_2338{x=-70, y=66, z=793}
+[21:19:26] [Server thread/INFO]: [Och8Z: Set own game mode to Creative Mode]
