@@ -895,6 +895,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-01-29 05:04:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-25 01:07:04 +0000"
@@ -1758,6 +1764,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-01-29 05:05:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-01-25 00:56:57 +0000"
@@ -2204,6 +2216,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2025-01-28 18:56:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-01-29 05:04:56 +0000"
     },
     "done": true
   },
@@ -2735,6 +2753,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-29 05:04:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-01-25 00:55:48 +0000"
@@ -3070,6 +3094,15 @@
       "has_stone": "2025-01-28 05:05:50 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/black.png": "2025-01-29 05:04:58 +0000",
+      "textures/entity/cat/ragdoll.png": "2025-01-29 05:05:10 +0000",
+      "textures/entity/cat/british_shorthair.png": "2025-01-29 05:05:06 +0000",
+      "textures/entity/cat/calico.png": "2025-01-29 05:05:01 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
