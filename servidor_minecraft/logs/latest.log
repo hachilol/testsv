@@ -46,3 +46,10 @@
 [17:54:31] [Server thread/INFO]: [Och8Z: Set own game mode to Creative Mode]
 [17:55:12] [Server thread/INFO]: [Och8Z: Successfully filled 1291 blocks]
 [18:00:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/20626, l='ServerLevel[world]', x=1.37, y=77.02, z=722.08]
+[18:18:10] [Server thread/INFO]: Villager class_1646['Villager'/28399, l='ServerLevel[world]', x=-60.70, y=83.00, z=817.30] died, message: 'Villager was slain by Och8Z'
+[18:18:23] [Server thread/INFO]: Villager class_1646['Villager'/28345, l='ServerLevel[world]', x=-62.52, y=83.56, z=814.46] died, message: 'Villager was slain by Och8Z'
+[18:18:26] [Server thread/INFO]: Villager class_1646['Villager'/28374, l='ServerLevel[world]', x=-62.53, y=83.81, z=821.20] died, message: 'Villager was slain by Och8Z'
+[18:21:03] [Server thread/INFO]: Och8Z lost connection: Disconnected
+[18:21:03] [Server thread/INFO]: Och8Z left the game
+[18:21:05] [Server thread/INFO]: Och8Z[/127.27.2.94:56735] logged in with entity id 32564 at (-60.896735884887335, 63.0, 806.7648617187435)
+[18:21:05] [Server thread/INFO]: Och8Z joined the game
