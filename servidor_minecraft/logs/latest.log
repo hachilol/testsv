@@ -18,3 +18,18 @@
 [01:35:54] [Server thread/INFO]: [Och8Z: Set own game mode to Survival Mode]
 [01:35:56] [Server thread/INFO]: [Och8Z: Set own game mode to Creative Mode]
 [01:35:58] [Server thread/INFO]: [Och8Z: Set own game mode to Survival Mode]
+[02:08:45] [Server thread/INFO]: Och8Z lost connection: Disconnected
+[02:08:45] [Server thread/INFO]: Och8Z left the game
+[02:09:04] [Server thread/INFO]: Stopping the server
+[02:09:05] [Server thread/INFO]: Stopping server
+[02:09:05] [Server thread/INFO]: Saving players
+[02:09:05] [Server thread/INFO]: Saving worlds
+[02:09:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:09:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:09:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:09:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:09:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:09:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:09:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:09:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:09:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
