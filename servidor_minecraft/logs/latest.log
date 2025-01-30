@@ -9,3 +9,6 @@
 [00:53:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-85, y=70, z=757} class_2338{x=-86, y=69, z=758}
 [00:53:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-85, y=70, z=757} class_2338{x=-86, y=69, z=758}
 [00:53:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-93, y=70, z=757} class_2338{x=-94, y=69, z=757}
+[01:20:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-87, y=63, z=745} class_2338{x=-87, y=62, z=746}
+[01:21:39] [Server thread/INFO]: [Och8Z: Set own game mode to Creative Mode]
+[01:21:56] [Server thread/INFO]: [Och8Z: Set own game mode to Survival Mode]
