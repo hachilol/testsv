@@ -3178,7 +3178,9 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
+      "textures/entity/cat/white.png": "2025-01-30 18:45:25 +0000",
       "textures/entity/cat/black.png": "2025-01-29 05:04:58 +0000",
+      "textures/entity/cat/jellie.png": "2025-01-30 18:45:21 +0000",
       "textures/entity/cat/ragdoll.png": "2025-01-29 05:05:10 +0000",
       "textures/entity/cat/british_shorthair.png": "2025-01-29 05:05:06 +0000",
       "textures/entity/cat/calico.png": "2025-01-29 05:05:01 +0000"
