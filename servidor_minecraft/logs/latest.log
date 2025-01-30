@@ -4,3 +4,8 @@
 [00:14:56] [Server thread/INFO]: [Och8Z: Set own game mode to Creative Mode]
 [00:15:31] [Server thread/INFO]: [Och8Z: Set own game mode to Survival Mode]
 [00:34:53] [Server thread/INFO]: [Och8Z: Applied enchantment Mending to Och8Z's item]
+[00:51:07] [Server thread/INFO]: Villager class_1646['Farmer'/135631, l='ServerLevel[world]', x=-91.85, y=69.94, z=752.83] died, message: 'Farmer was slain by Och8Z using [Demon Killer]'
+[00:51:08] [Server thread/INFO]: Villager class_1646['Villager'/135632, l='ServerLevel[world]', x=-88.46, y=69.94, z=749.30] died, message: 'Villager was slain by Och8Z using [Demon Killer]'
+[00:53:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-85, y=70, z=757} class_2338{x=-86, y=69, z=758}
+[00:53:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-85, y=70, z=757} class_2338{x=-86, y=69, z=758}
+[00:53:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-93, y=70, z=757} class_2338{x=-94, y=69, z=757}
