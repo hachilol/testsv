@@ -77,3 +77,11 @@
 [19:48:13] [Server thread/WARN]: alejandro946 moved wrongly!
 [19:49:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Iron Ingot'/114246, l='ServerLevel[world]', x=-69.90, y=62.38, z=693.50]
 [19:57:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=4, y=76, z=721} class_2338{x=3, y=76, z=721}
+[20:12:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-159, y=66, z=732} class_2338{x=-159, y=64, z=732}
+[20:13:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-160, y=65, z=717} class_2338{x=-162, y=64, z=716}
+[20:13:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-166, y=64, z=718} class_2338{x=-166, y=65, z=718}
+[20:13:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-176, y=66, z=722} class_2338{x=-176, y=65, z=722}
+[20:15:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-152, y=64, z=718} class_2338{x=-152, y=64, z=719}
+[20:15:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-152, y=64, z=718} class_2338{x=-152, y=64, z=719}
+[20:15:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-152, y=64, z=718} class_2338{x=-152, y=64, z=719}
+[20:15:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-152, y=64, z=718} class_2338{x=-152, y=64, z=719}
