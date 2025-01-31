@@ -153,3 +153,13 @@
 [21:10:01] [Server thread/INFO]: Wladomor joined the game
 [21:10:16] [Server thread/INFO]: Wladomor lost connection: Timed out
 [21:10:16] [Server thread/INFO]: Wladomor left the game
+[21:13:14] [Server thread/INFO]: Wladomor[/127.158.58.184:44069] logged in with entity id 186613 at (-87.84331370900608, 59.0, 741.1037406152509)
+[21:13:14] [Server thread/INFO]: Wladomor joined the game
+[21:13:53] [Server thread/INFO]: Wladomor lost connection: Disconnected
+[21:13:53] [Server thread/INFO]: Wladomor left the game
+[21:14:58] [Server thread/INFO]: Wladomor[/127.158.58.184:38419] logged in with entity id 187854 at (-87.84331370900608, 59.0, 741.1037406152509)
+[21:14:58] [Server thread/INFO]: Wladomor joined the game
+[21:15:20] [Server thread/INFO]: <Wladomor> chetumare tenie el pico dropeado XDD
+[21:15:37] [Server thread/INFO]: <alejandro946> XD
+[21:17:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=14, y=113, z=653} class_2338{x=13, y=113, z=653}
+[21:17:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=14, y=113, z=653} class_2338{x=13, y=113, z=653}
