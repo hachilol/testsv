@@ -171,3 +171,4 @@
 [22:05:20] [Server thread/INFO]: alejandro946 joined the game
 [22:07:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-2552, y=28, z=-4906} class_2338{x=-2553, y=28, z=-4905}
 [22:12:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-2568, y=17, z=-4886} class_2338{x=-2567, y=17, z=-4888}
+[22:35:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-143, y=33, z=-602} class_2338{x=-117, y=49, z=-601}
