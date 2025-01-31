@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-01-31 21:46:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-25 04:04:31 +0000"
@@ -260,6 +266,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-01-27 02:55:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-01-31 21:42:38 +0000"
     },
     "done": true
   },
@@ -1298,12 +1310,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-01-31 21:46:42 +0000",
       "minecraft:nether_wastes": "2025-01-25 06:11:08 +0000",
       "minecraft:soul_sand_valley": "2025-01-28 02:04:51 +0000",
       "minecraft:warped_forest": "2025-01-25 06:07:29 +0000",
       "minecraft:basalt_deltas": "2025-01-28 02:15:26 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
@@ -1843,6 +1856,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-01-25 01:03:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-01-31 21:42:38 +0000"
     },
     "done": true
   },
