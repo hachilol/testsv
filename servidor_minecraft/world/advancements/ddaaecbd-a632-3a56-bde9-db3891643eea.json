@@ -640,12 +640,15 @@
       "minecraft:blaze": "2025-01-25 22:46:53 +0000",
       "minecraft:pillager": "2025-01-30 21:07:12 +0000",
       "minecraft:skeleton": "2025-01-25 01:05:52 +0000",
+      "minecraft:ravager": "2025-01-31 03:49:45 +0000",
       "minecraft:ghast": "2025-01-25 06:13:52 +0000",
+      "minecraft:vindicator": "2025-01-31 03:48:55 +0000",
       "minecraft:magma_cube": "2025-01-27 03:17:47 +0000",
       "minecraft:spider": "2025-01-25 03:02:27 +0000",
       "minecraft:piglin_brute": "2025-01-28 04:37:45 +0000",
       "minecraft:creeper": "2025-01-25 01:06:07 +0000",
       "minecraft:wither": "2025-01-27 03:25:59 +0000",
+      "minecraft:evoker": "2025-01-31 03:51:38 +0000",
       "minecraft:phantom": "2025-01-29 17:41:35 +0000",
       "minecraft:witch": "2025-01-31 01:46:31 +0000",
       "minecraft:wither_skeleton": "2025-01-25 22:46:48 +0000",
@@ -653,6 +656,7 @@
       "minecraft:cave_spider": "2025-01-28 05:06:19 +0000",
       "minecraft:piglin": "2025-01-25 22:40:39 +0000",
       "minecraft:enderman": "2025-01-28 03:52:05 +0000",
+      "minecraft:vex": "2025-01-31 03:54:35 +0000",
       "minecraft:zombie": "2025-01-25 01:01:29 +0000",
       "minecraft:drowned": "2025-01-30 02:51:36 +0000",
       "minecraft:zombie_villager": "2025-01-26 20:17:01 +0000"
@@ -752,6 +756,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-01-25 22:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-31 03:47:49 +0000"
     },
     "done": true
   },
@@ -1142,6 +1152,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-01-25 01:11:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-01-31 04:00:06 +0000"
     },
     "done": true
   },
@@ -1670,6 +1686,12 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2025-01-26 20:18:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-01-31 03:57:37 +0000"
     },
     "done": true
   },

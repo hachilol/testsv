@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-01-31 03:57:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-01-28 03:37:47 +0000"
@@ -380,6 +386,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-01-25 03:11:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-01-31 03:46:10 +0000"
     },
     "done": true
   },
@@ -985,15 +997,25 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-01-31 03:46:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-31 03:48:26 +0000",
       "minecraft:skeleton": "2025-01-25 04:17:03 +0000",
+      "minecraft:vindicator": "2025-01-31 03:54:18 +0000",
       "minecraft:spider": "2025-01-25 04:41:27 +0000",
       "minecraft:creeper": "2025-01-28 03:20:11 +0000",
+      "minecraft:witch": "2025-01-31 03:49:53 +0000",
       "minecraft:shulker": "2025-01-28 04:01:33 +0000",
       "minecraft:cave_spider": "2025-01-28 02:22:18 +0000",
       "minecraft:enderman": "2025-01-28 03:44:13 +0000",
       "minecraft:silverfish": "2025-01-28 02:17:35 +0000",
+      "minecraft:vex": "2025-01-31 03:56:50 +0000",
       "minecraft:zombie": "2025-01-25 01:50:32 +0000"
     },
     "done": false
@@ -1109,6 +1131,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-25 04:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-31 03:50:12 +0000"
     },
     "done": true
   },
@@ -1875,6 +1903,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-01-25 01:14:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-01-31 03:46:10 +0000"
     },
     "done": true
   },
