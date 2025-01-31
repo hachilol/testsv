@@ -121,3 +121,35 @@
 [20:59:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-186, y=63, z=797} class_2338{x=-187, y=63, z=798}
 [20:59:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-186, y=63, z=797} class_2338{x=-187, y=63, z=798}
 [20:59:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-186, y=63, z=797} class_2338{x=-187, y=63, z=798}
+[21:03:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-191, y=64, z=796} class_2338{x=-191, y=62, z=796}
+[21:03:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-191, y=64, z=796} class_2338{x=-191, y=62, z=796}
+[21:03:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-190, y=63, z=796} class_2338{x=-191, y=62, z=796}
+[21:03:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-190, y=63, z=796} class_2338{x=-191, y=62, z=796}
+[21:03:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-190, y=63, z=796} class_2338{x=-191, y=62, z=796}
+[21:06:24] [Server thread/INFO]: Wladomor lost connection: Timed out
+[21:06:24] [Server thread/INFO]: Wladomor left the game
+[21:06:29] [Server thread/INFO]: Wladomor[/127.158.58.184:58337] logged in with entity id 181918 at (-86.78319248664542, 59.0, 741.9631417112366)
+[21:06:29] [Server thread/INFO]: Wladomor joined the game
+[21:06:44] [Server thread/INFO]: Wladomor lost connection: Timed out
+[21:06:44] [Server thread/INFO]: Wladomor left the game
+[21:07:04] [Server thread/INFO]: Wladomor[/127.158.58.184:58615] logged in with entity id 182318 at (-86.78319248664542, 59.0, 741.9631417112366)
+[21:07:04] [Server thread/INFO]: Wladomor joined the game
+[21:07:19] [Server thread/INFO]: Wladomor lost connection: Timed out
+[21:07:19] [Server thread/INFO]: Wladomor left the game
+[21:08:03] [Server thread/INFO]: Wladomor[/127.158.58.184:50153] logged in with entity id 183066 at (-86.78319248664542, 59.0, 741.9631417112366)
+[21:08:03] [Server thread/INFO]: Wladomor joined the game
+[21:08:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/183043, l='ServerLevel[world]', x=1.38, y=77.03, z=720.13]
+[21:08:18] [Server thread/INFO]: Wladomor lost connection: Timed out
+[21:08:18] [Server thread/INFO]: Wladomor left the game
+[21:08:58] [Server thread/INFO]: Wladomor[/127.158.58.184:40131] logged in with entity id 183704 at (-88.26723790769444, 59.0, 741.0425156975463)
+[21:08:58] [Server thread/INFO]: Wladomor joined the game
+[21:09:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=10, y=112, z=638} class_2338{x=14, y=113, z=644}
+[21:09:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=10, y=112, z=638} class_2338{x=14, y=113, z=644}
+[21:09:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=10, y=112, z=638} class_2338{x=14, y=113, z=644}
+[21:09:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=10, y=112, z=638} class_2338{x=14, y=113, z=644}
+[21:09:13] [Server thread/INFO]: Wladomor lost connection: Timed out
+[21:09:13] [Server thread/INFO]: Wladomor left the game
+[21:10:01] [Server thread/INFO]: Wladomor[/127.158.58.184:56323] logged in with entity id 184471 at (-88.52194806482571, 59.0, 740.4933154928189)
+[21:10:01] [Server thread/INFO]: Wladomor joined the game
+[21:10:16] [Server thread/INFO]: Wladomor lost connection: Timed out
+[21:10:16] [Server thread/INFO]: Wladomor left the game
