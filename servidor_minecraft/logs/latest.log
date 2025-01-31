@@ -72,3 +72,7 @@
 [19:23:41] [Server thread/INFO]: <Wladomor> ;"(
 [19:31:19] [Server thread/INFO]: alejandro946 has made the advancement [Who is Cutting Onions?]
 [19:31:56] [Server thread/INFO]: <Wladomor> no pasa nada si me robo iron de la granja? xd
+[19:43:57] [Server thread/INFO]: Villager class_1646['Villager'/104281, l='ServerLevel[world]', x=-522.16, y=42.00, z=-5585.48] died, message: 'Villager was slain by Zombie'
+[19:46:40] [Server thread/WARN]: Wladomor moved too quickly! 0.0020673720804609275,-7.0,7.2972269449708165
+[19:48:13] [Server thread/WARN]: alejandro946 moved wrongly!
+[19:49:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Iron Ingot'/114246, l='ServerLevel[world]', x=-69.90, y=62.38, z=693.50]
