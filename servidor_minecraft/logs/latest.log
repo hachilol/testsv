@@ -76,3 +76,4 @@
 [19:46:40] [Server thread/WARN]: Wladomor moved too quickly! 0.0020673720804609275,-7.0,7.2972269449708165
 [19:48:13] [Server thread/WARN]: alejandro946 moved wrongly!
 [19:49:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Iron Ingot'/114246, l='ServerLevel[world]', x=-69.90, y=62.38, z=693.50]
+[19:57:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=4, y=76, z=721} class_2338{x=3, y=76, z=721}
