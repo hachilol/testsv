@@ -167,3 +167,7 @@
 [21:46:42] [Server thread/INFO]: Wladomor has completed the challenge [Hot Tourist Destinations]
 [21:47:32] [Server thread/INFO]: alejandro946 lost connection: Disconnected
 [21:47:32] [Server thread/INFO]: alejandro946 left the game
+[22:05:20] [Server thread/INFO]: alejandro946[/127.160.163.203:43085] logged in with entity id 233885 at (0.4996252747404373, 109.0, 648.41725769954)
+[22:05:20] [Server thread/INFO]: alejandro946 joined the game
+[22:07:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-2552, y=28, z=-4906} class_2338{x=-2553, y=28, z=-4905}
+[22:12:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-2568, y=17, z=-4886} class_2338{x=-2567, y=17, z=-4888}
