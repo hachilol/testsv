@@ -149,3 +149,5 @@ java.lang.NullPointerException: null
 [05:07:54] [Server thread/WARN]: Wladomor moved too quickly! 2015.8007792570108,20.464159374955443,-884.1003483183233
 [05:07:54] [Server thread/WARN]: Entity class_3222['Wladomor'/8686, l='ServerLevel[world]', x=100.50, y=49.00, z=0.50] left loaded chunk area
 [05:52:35] [Server thread/INFO]: Villager class_1646['Armorer'/91338, l='ServerLevel[world]', x=-13.44, y=61.00, z=794.70] died, message: 'Armorer was slain by Zombie'
+[06:11:55] [Server thread/INFO]: Wladomor lost connection: Disconnected
+[06:11:55] [Server thread/INFO]: Wladomor left the game
