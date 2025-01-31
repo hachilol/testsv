@@ -141,3 +141,10 @@ java.lang.NullPointerException: null
 [04:22:07] [Server thread/INFO]: Dercsas left the game
 [04:25:52] [Server thread/WARN]: Och8Z moved too quickly! -10.033346379834626,1.1661092609382138,0.4618232763549486
 [04:32:43] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/49695, l='ServerLevel[world]', x=-765.47, y=11.69, z=-5156.41]
+[04:59:25] [Server thread/INFO]: [Och8Z: Set own game mode to Creative Mode]
+[05:00:51] [Server thread/INFO]: [Och8Z: Set own game mode to Survival Mode]
+[05:01:16] [Server thread/INFO]: [Och8Z: Set own game mode to Creative Mode]
+[05:05:32] [Server thread/INFO]: Och8Z lost connection: Disconnected
+[05:05:32] [Server thread/INFO]: Och8Z left the game
+[05:07:54] [Server thread/WARN]: Wladomor moved too quickly! 2015.8007792570108,20.464159374955443,-884.1003483183233
+[05:07:54] [Server thread/WARN]: Entity class_3222['Wladomor'/8686, l='ServerLevel[world]', x=100.50, y=49.00, z=0.50] left loaded chunk area
