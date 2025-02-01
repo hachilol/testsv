@@ -33,3 +33,9 @@
 [01:23:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
 [01:24:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
 [01:24:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7125ms or 142 ticks behind
+[01:25:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9262ms or 185 ticks behind
+[01:25:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8215ms or 164 ticks behind
+[01:30:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[01:32:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1243, y=12, z=-5056} class_2338{x=-1244, y=11, z=-5056}
+[01:35:24] [Server thread/INFO]: alejandro946 lost connection: Disconnected
+[01:35:24] [Server thread/INFO]: alejandro946 left the game
