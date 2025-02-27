@@ -1657,6 +1657,7 @@
   },
   "cobblemon:craft_all_balls": {
     "criteria": {
+      "poke_ball": "2025-02-27 22:02:22 +0000",
       "master_ball": "2025-02-27 21:53:29 +0000"
     },
     "done": false
@@ -1664,6 +1665,30 @@
   "cobblemon:craft_poke_ball": {
     "criteria": {
       "requirement": "2025-02-27 21:53:29 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/whipped_dream": {
+    "criteria": {
+      "has_sweet_berry": "2025-02-27 21:58:21 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:craft_base_balls": {
+    "criteria": {
+      "poke_ball": "2025-02-27 22:02:22 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:use_candy": {
+    "criteria": {
+      "use_rare_candy": "2025-02-27 22:03:28 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:first_catch": {
+    "criteria": {
+      "catch": "2025-02-27 22:02:46 +0000"
     },
     "done": true
   },

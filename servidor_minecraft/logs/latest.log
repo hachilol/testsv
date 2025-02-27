@@ -841,3 +841,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27Feb2025 21:57:39.533] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Och8Z[/127.10.249.163:33259] logged in with entity id 157 at (844.6692419323443, 67.0, -21.746609988872077)
 [27Feb2025 21:57:39.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z joined the game
 [27Feb2025 21:57:59.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Set own game mode to Survival Mode]
+[27Feb2025 21:59:52.862] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Och8Z lost connection: Disconnected
+[27Feb2025 21:59:52.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z left the game
+[27Feb2025 22:00:57.733] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Och8Z[/127.10.249.163:36911] logged in with entity id 248 at (837.2461429092842, 64.0, -39.055576367854734)
+[27Feb2025 22:00:57.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z joined the game
+[27Feb2025 22:02:14.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Set own game mode to Creative Mode]
+[27Feb2025 22:02:46.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [A New Friend!]
+[27Feb2025 22:03:28.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Sweet Tooth]
+[27Feb2025 22:03:50.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Set own game mode to Survival Mode]
+[27Feb2025 22:05:50.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Set own game mode to Creative Mode]
+[27Feb2025 22:06:12.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Applied enchantment Efficiency V to Och8Z's item]
+[27Feb2025 22:06:21.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Applied enchantment Unbreaking III to Och8Z's item]
+[27Feb2025 22:06:31.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Applied enchantment Fortune III to Och8Z's item]
+[27Feb2025 22:06:41.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Applied enchantment Mending to Och8Z's item]
+[27Feb2025 22:06:44.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Set own game mode to Survival Mode]
+[27Feb2025 22:07:01.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Set own game mode to Creative Mode]
+[27Feb2025 22:07:05.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Set own game mode to Survival Mode]
