@@ -1660,6 +1660,7 @@
   },
   "cobblemon:craft_all_balls": {
     "criteria": {
+      "ultra_ball": "2025-02-27 23:43:16 +0000",
       "poke_ball": "2025-02-27 22:02:22 +0000",
       "master_ball": "2025-02-27 21:53:29 +0000"
     },
@@ -2089,7 +2090,12 @@
   },
   "cobblemon:rainbow_apricorns": {
     "criteria": {
-      "place_red": "2025-02-27 22:17:37 +0000"
+      "place_black": "2025-02-27 23:38:54 +0000",
+      "place_green": "2025-02-27 23:37:48 +0000",
+      "place_pink": "2025-02-27 23:36:37 +0000",
+      "place_yellow": "2025-02-27 23:37:25 +0000",
+      "place_red": "2025-02-27 22:17:37 +0000",
+      "place_blue": "2025-02-27 23:39:42 +0000"
     },
     "done": false
   },
@@ -2546,6 +2552,18 @@
   "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_lily_of_the_valley": "2025-02-27 22:44:23 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/pasture": {
+    "criteria": {
+      "has_pc": "2025-02-27 23:40:43 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:healing_machine": {
+    "criteria": {
+      "use_healing_machine": "2025-02-27 23:41:47 +0000"
     },
     "done": true
   },
