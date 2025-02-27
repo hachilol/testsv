@@ -891,3 +891,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27Feb2025 22:28:04.847] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=610, y=68, z=-374}
 [27Feb2025 22:28:04.901] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id pixelmon:healer
 [27Feb2025 22:28:04.901] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=609, y=68, z=-374}
+[27Feb2025 22:29:24.613] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id pixelmon:poke_chest
+[27Feb2025 22:29:24.614] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=606, y=72, z=-457}
+[27Feb2025 22:32:13.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Very Berry]
+[27Feb2025 22:33:56.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [There's a Leek in the Boat!]
+[27Feb2025 22:35:56.768] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 6b04c811-1409-498a-95d3-3c7fcd255a14
+[27Feb2025 22:35:56.769] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 6b04c811-1409-498a-95d3-3c7fcd255a14
+[27Feb2025 22:36:07.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Fully healed Och8Z's party.]
+[27Feb2025 22:38:25.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Minty Fresh]
+[27Feb2025 22:42:05.600] [Worker-Main-34/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[27Feb2025 22:42:05.642] [Worker-Main-34/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[27Feb2025 22:42:05.654] [Worker-Main-34/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[27Feb2025 22:42:55.241] [Worker-Main-53/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[27Feb2025 22:42:55.242] [Worker-Main-53/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[27Feb2025 22:42:55.298] [Worker-Main-53/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[27Feb2025 22:46:06.883] [Worker-Main-32/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[27Feb2025 22:46:06.884] [Worker-Main-32/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[27Feb2025 22:46:06.894] [Worker-Main-32/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
