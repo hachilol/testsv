@@ -10,9 +10,9 @@
     "totalCaptureCount": 1,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 1,
+    "totalBattleVictoryCount": 2,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 1,
+    "totalPvWBattleVictoryCount": 2,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -20,7 +20,8 @@
       "fire": 1
     },
     "totalDefeatedCounts": {
-      "cobblemon:rookidee": 1
+      "cobblemon:rookidee": 1,
+      "cobblemon:gastly": 1
     },
     "aspectsCollected": {}
   }
