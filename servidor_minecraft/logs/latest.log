@@ -866,3 +866,28 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27Feb2025 22:17:28.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Mother Nature's Bounty]
 [27Feb2025 22:17:37.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Doing my Part]
 [27Feb2025 22:18:11.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Set own game mode to Survival Mode]
+[27Feb2025 22:25:55.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Fully healed Och8Z's party.]
+[27Feb2025 22:27:52.267] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id pixelmon:clock
+[27Feb2025 22:27:52.274] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=606, y=68, z=-347}
+[27Feb2025 22:27:52.275] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id pixelmon:box
+[27Feb2025 22:27:52.275] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=607, y=71, z=-343}
+[27Feb2025 22:27:52.276] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id pixelmon:poke_chest
+[27Feb2025 22:27:52.276] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=606, y=71, z=-343}
+[27Feb2025 22:27:52.277] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id pixelmon:poke_chest
+[27Feb2025 22:27:52.277] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=592, y=70, z=-345}
+[27Feb2025 22:27:52.288] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id pixelmon:vending_machine
+[27Feb2025 22:27:52.296] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=612, y=66, z=-343}
+[27Feb2025 22:27:52.296] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id pixelmon:vending_machine
+[27Feb2025 22:27:52.297] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=610, y=66, z=-343}
+[27Feb2025 22:27:52.297] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id pixelmon:picket_fence
+[27Feb2025 22:27:52.298] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=614, y=71, z=-343}
+[27Feb2025 22:27:52.298] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id pixelmon:vending_machine
+[27Feb2025 22:27:52.298] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=614, y=66, z=-343}
+[27Feb2025 22:27:52.299] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id pixelmon:picket_fence
+[27Feb2025 22:27:52.299] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=614, y=71, z=-349}
+[27Feb2025 22:27:55.341] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id pixelmon:pokestop
+[27Feb2025 22:27:55.345] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=686, y=65, z=-365}
+[27Feb2025 22:28:04.827] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id pixelmon:pc
+[27Feb2025 22:28:04.847] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=610, y=68, z=-374}
+[27Feb2025 22:28:04.901] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id pixelmon:healer
+[27Feb2025 22:28:04.901] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=609, y=68, z=-374}
