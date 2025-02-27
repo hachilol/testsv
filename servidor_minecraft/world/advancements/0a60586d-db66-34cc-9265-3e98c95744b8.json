@@ -1,0 +1,5187 @@
+{
+  "pixelmon:recipes/decor/healer/white_healer": {
+    "criteria": {
+      "has_diamond": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/computer/black_pc": {
+    "criteria": {
+      "has_pc": "2025-02-23 00:51:27 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/letter_box/gray_letter_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-23 01:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-02-23 00:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-02-24 21:15:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/rug/gray_rug": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-02-23 21:07:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-02-24 19:52:39 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/cushion_chair/red_cushion_chair": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/rug/magenta_rug": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/umbrella/brown_umbrella_dyed": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/ultra_ball_lid": {
+    "criteria": {
+      "has_apricorn": "2025-02-23 01:20:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-23 19:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/green_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-02-23 21:52:01 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/friend_ball_lid": {
+    "criteria": {
+      "has_poke_ball": "2025-02-23 00:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-24 21:15:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:specs/eeveelution_capture_all": {
+    "criteria": {
+      "0": "2025-02-23 21:54:54 +0000",
+      "1": "2025-02-23 21:54:54 +0000",
+      "2": "2025-02-23 21:54:54 +0000",
+      "3": "2025-02-23 21:54:54 +0000",
+      "4": "2025-02-23 21:54:54 +0000",
+      "5": "2025-02-23 21:54:54 +0000",
+      "6": "2025-02-23 21:54:54 +0000",
+      "7": "2025-02-23 21:54:54 +0000",
+      "8": "2025-02-23 21:54:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-02-24 21:15:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-02-23 00:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-02-24 23:56:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-02-23 00:47:19 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/meteorite": {
+    "criteria": {
+      "has_end_stone": "2025-02-23 00:49:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-02-23 00:43:59 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/movement/old_running_boots": {
+    "criteria": {
+      "has_ingot": "2025-02-23 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting": {
+    "criteria": {
+      "has_gold_ore": "2025-02-23 19:47:15 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/furnace/black_apricorn": {
+    "criteria": {
+      "has_apricorn": "2025-02-23 19:20:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-24 19:52:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting": {
+    "criteria": {
+      "has_iron_ore": "2025-02-23 00:53:34 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/premier_ball_lid": {
+    "criteria": {
+      "has_poke_ball": "2025-02-23 00:48:48 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/umbrella/red_umbrella_dyed": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "largetools:recipes/tooltab/stone_backhoe": {
+    "criteria": {
+      "has_stone_ingot": "2025-02-23 21:29:50 +0000"
+    },
+    "done": true
+  },
+  "largetools:recipes/tooltab/stone_hammer": {
+    "criteria": {
+      "has_stone_ingot": "2025-02-23 21:29:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-02-24 23:34:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-02-24 23:54:11 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/magenta_healer": {
+    "criteria": {
+      "has_diamond": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-02-24 23:56:01 +0000"
+    },
+    "done": true
+  },
+  "largetools:recipes/tooltab/packed_spruce": {
+    "criteria": {
+      "has_spruce": "2025-02-25 00:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/umbrella/orange_umbrella_dyed": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/tv": {
+    "criteria": {
+      "has_glass_pane": "2025-02-24 20:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "largetools:recipes/tooltab/diamond_saw": {
+    "criteria": {
+      "has_diamond_ingot": "2025-02-23 20:42:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-02-23 19:38:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/sport_ball_lid": {
+    "criteria": {
+      "has_poke_ball": "2025-02-23 00:48:48 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/green_healer": {
+    "criteria": {
+      "has_diamond": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/gym_signs/gray_gym_sign": {
+    "criteria": {
+      "has_ingot": "2025-02-23 00:51:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-23 19:38:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/crystal/crystal_equipment": {
+    "criteria": {
+      "has_crystal": "2025-02-23 00:56:07 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-02-24 21:34:25 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/flute/blue_flute": {
+    "criteria": {
+      "has_blue_shard": "2025-02-24 23:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-02-23 21:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-23 19:38:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/terrain/cave_rock": {
+    "criteria": {
+      "has_stone": "2025-02-24 19:52:39 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/computer/blue_pc": {
+    "criteria": {
+      "has_pc": "2025-02-23 00:51:27 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/furnace/green_apricorn": {
+    "criteria": {
+      "has_apricorn": "2025-02-23 01:20:25 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/cushion_chair/cyan_cushion_chair": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-23 19:32:26 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/blue_berry_wood_planks_dyed": {
+    "criteria": {
+      "has_planks": "2025-02-24 23:51:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-02-23 21:07:41 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/umbrella/yellow_umbrella": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/rug/orange_rug": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/green_berry_wood_slab": {
+    "criteria": {
+      "has_planks": "2025-02-23 00:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 00:50:59 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/fossil/fossil_cleaner": {
+    "criteria": {
+      "has_uncleaned_fossil": "2025-02-23 01:01:13 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/badgecase/bluebadgecase": {
+    "criteria": {
+      "has_apricorn": "2025-02-24 20:26:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-02-23 00:43:47 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/computer/purple_pc": {
+    "criteria": {
+      "has_pc": "2025-02-23 00:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-24 20:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-02-23 00:49:34 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/folding_chair/white_folding_chair": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-24 21:27:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2025-02-23 21:44:31 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/umbrella/pink_umbrella_dyed": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/rug/purple_rug": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/evo_item/water_stone": {
+    "criteria": {
+      "has_evo_item": "2025-02-25 00:15:53 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/fossil/fossil_machine_display": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 01:01:13 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/computer/orange_pc": {
+    "criteria": {
+      "has_pc": "2025-02-23 00:51:27 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/wailmer_pail": {
+    "criteria": {
+      "has_water_bucket": "2025-02-23 19:30:23 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/vanilla/iron_hammer": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-24 19:52:39 +0000"
+    },
+    "done": true
+  },
+  "largetools:recipes/tooltab/diamond_backhaw": {
+    "criteria": {
+      "has_diamond_ingot": "2025-02-23 20:42:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-24 21:15:11 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/red_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/cash_register/blue_cash_register": {
+    "criteria": {
+      "has_dye": "2025-02-24 23:11:34 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/gym_signs/yellow_gym_sign": {
+    "criteria": {
+      "has_ingot": "2025-02-23 00:51:29 +0000"
+    },
+    "done": true
+  },
+  "largetools:recipes/tooltab/gold_saw": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-24 21:22:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/curry/toast": {
+    "criteria": {
+      "has_bread": "2025-02-23 00:41:55 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/cushion_chair/purple_cushion_chair": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-02-24 20:13:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-02-23 19:38:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-02-23 00:45:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2025-02-25 00:39:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-24 23:56:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-02-23 00:55:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-02-25 02:57:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-23 21:10:11 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/infuser": {
+    "criteria": {
+      "has_ingot": "2025-02-23 00:51:29 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/blue_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/red_healer": {
+    "criteria": {
+      "has_diamond": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2025-02-23 21:44:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-24 21:27:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-02-24 23:11:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-23 01:17:32 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/computer/lime_pc": {
+    "criteria": {
+      "has_pc": "2025-02-23 00:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-02-24 21:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 00:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-23 00:45:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-23 19:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-02-23 19:20:34 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/computer/brown_pc": {
+    "criteria": {
+      "has_pc": "2025-02-23 00:51:27 +0000"
+    },
+    "done": true
+  },
+  "largetools:recipes/tooltab/gold_hammer": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-24 21:22:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/curry/potato_pack": {
+    "criteria": {
+      "has_potato": "2025-02-23 00:45:31 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/green_berry_wood_button": {
+    "criteria": {
+      "has_planks": "2025-02-23 00:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-02-23 19:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-02-24 23:11:34 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/black_healer": {
+    "criteria": {
+      "has_diamond": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/bench/spruce_bench": {
+    "criteria": {
+      "has_planks": "2025-02-23 00:47:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-02-24 20:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-23 01:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-24 21:27:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-02-23 00:50:59 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:types/capture_type_trigger": {
+    "criteria": {
+      "capture_any": "2025-02-23 21:54:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-02-23 21:12:49 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/yellow_berry_wood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-24 23:51:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-24 21:27:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 00:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/juice/colorful_juice": {
+    "criteria": {
+      "has_juice_berry_3": "2025-02-23 00:42:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-23 21:12:49 +0000"
+    },
+    "done": true
+  },
+  "largetools:recipes/tooltab/stone_tiller": {
+    "criteria": {
+      "has_stone_ingot": "2025-02-23 21:29:50 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/computer/green_pc": {
+    "criteria": {
+      "has_pc": "2025-02-23 00:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-23 21:31:30 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/luxury_ball_lid": {
+    "criteria": {
+      "has_poke_ball": "2025-02-23 00:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-24 21:16:23 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/cushion_chair/white_cushion_chair": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/reveal_glass": {
+    "criteria": {
+      "has_emerald": "2025-02-23 00:50:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-23 00:55:09 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/jet_ball_lid": {
+    "criteria": {
+      "has_ingot": "2025-02-23 01:08:04 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/terrain/boulder": {
+    "criteria": {
+      "has_stone": "2025-02-24 19:52:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-23 21:12:49 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/bench/dark_oak_bench": {
+    "criteria": {
+      "has_planks": "2025-02-24 23:56:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/washing_machine": {
+    "criteria": {
+      "has_water_bucket": "2025-02-23 19:30:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-23 21:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-23 00:47:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-24 23:56:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_oak_planks": "2025-02-23 19:20:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-23 19:20:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-23 19:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-23 19:38:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/oven": {
+    "criteria": {
+      "has_oven": "2025-02-23 01:07:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-24 21:16:23 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/lures/lure_shiny_strong": {
+    "criteria": {
+      "has_case_recipe": "2025-02-23 00:56:07 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/timer_ball_lid": {
+    "criteria": {
+      "has_poke_ball": "2025-02-23 00:48:48 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/fan": {
+    "criteria": {
+      "has_aluminum": "2025-02-23 00:51:29 +0000"
+    },
+    "done": true
+  },
+  "largetools:recipes/tooltab/gold_tiller": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-24 21:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-23 00:48:53 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/ancient_poke_ball_lid": {
+    "criteria": {
+      "has_ingot": "2025-02-23 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/neo_plasma/neo_plasma_equipment": {
+    "criteria": {
+      "has_crystal": "2025-02-23 00:56:07 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/cushion_chair/black_cushion_chair": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/mail_box/cyan_mail_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-23 01:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-02-23 00:43:33 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/evo_item/moon_stone": {
+    "criteria": {
+      "has_evo_item": "2025-02-23 01:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-02-23 00:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-23 20:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-02-23 00:43:33 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/gym_signs/purple_gym_sign": {
+    "criteria": {
+      "has_ingot": "2025-02-23 00:51:29 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/white_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 00:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-24 20:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-02-24 23:11:34 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/mail_box/red_mail_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-23 01:24:09 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/movement/handles": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 21:52:18 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/cushion_chair/yellow_cushion_chair": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/orange_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 00:50:59 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/reassembly_unit": {
+    "criteria": {
+      "has_emerald": "2025-02-23 00:50:08 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:specs/spheal_jump_capture_all": {
+    "criteria": {
+      "0": "2025-02-23 21:54:54 +0000"
+    },
+    "done": false
+  },
+  "pixelmon:recipes/pokeball/base/silver_base": {
+    "criteria": {
+      "has_ingot": "2025-02-23 00:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2025-02-23 01:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-24 21:27:27 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/pink_berry_wood_planks_dyed": {
+    "criteria": {
+      "has_planks": "2025-02-24 23:51:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-02-24 20:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/glass_table": {
+    "criteria": {
+      "has_planks": "2025-02-23 00:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-02-23 21:06:46 +0000",
+      "minecraft:soul_sand_valley": "2025-02-23 21:05:08 +0000",
+      "minecraft:nether_wastes": "2025-02-24 21:01:54 +0000"
+    },
+    "done": false
+  },
+  "pixelmon:recipes/pokeball/lid/great_ball_lid": {
+    "criteria": {
+      "has_apricorn": "2025-02-23 01:20:25 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/cushion_chair/magenta_cushion_chair": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-02-23 20:42:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2025-02-23 01:04:46 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/vanilla/stone_hammer": {
+    "criteria": {
+      "has_cobblestone": "2025-02-23 00:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-02-23 00:45:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-02-23 00:43:33 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/trade_machine/light_gray_trade_machine_dyed": {
+    "criteria": {
+      "has_trade_machine": "2025-02-25 00:09:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-02-25 02:57:21 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/ruby/ruby_equipment": {
+    "criteria": {
+      "has_ruby": "2025-02-23 00:55:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/ancient_ultra_ball_lid": {
+    "criteria": {
+      "has_ingot": "2025-02-23 01:08:04 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/trade_machine/brown_trade_machine_dyed": {
+    "criteria": {
+      "has_trade_machine": "2025-02-25 00:09:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/yellow_berry_wood_button": {
+    "criteria": {
+      "has_planks": "2025-02-24 23:51:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-23 19:38:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/movement/wheel": {
+    "criteria": {
+      "has_silicon": "2025-02-23 01:11:53 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/letter_box/black_letter_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-23 01:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-23 19:32:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-23 21:05:07 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/super_repel": {
+    "criteria": {
+      "has_ingot": "2025-02-23 00:51:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-02-23 00:42:33 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/trade_machine/orange_trade_machine_dyed": {
+    "criteria": {
+      "has_trade_machine": "2025-02-25 00:09:50 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/umbrella/yellow_umbrella_dyed": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/net_ball_lid": {
+    "criteria": {
+      "has_poke_ball": "2025-02-23 00:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-23 19:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-24 19:52:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-02-23 00:49:34 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/umbrella/light_gray_umbrella": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-02-23 21:17:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-24 20:27:52 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/gym_signs/blue_gym_sign": {
+    "criteria": {
+      "has_ingot": "2025-02-23 00:51:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 00:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-02-25 00:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-02-23 19:38:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-02-23 01:24:10 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/safari_ball_lid": {
+    "criteria": {
+      "has_poke_ball": "2025-02-23 00:48:48 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/galactic/galactic_equipment": {
+    "criteria": {
+      "has_silicon": "2025-02-23 01:11:53 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/badgecase/pinkbadgecase": {
+    "criteria": {
+      "has_apricorn": "2025-02-23 19:21:47 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/poke_ball_lid": {
+    "criteria": {
+      "has_apricorn": "2025-02-23 01:20:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-24 21:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2025-02-24 21:56:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-02-23 00:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-02-24 21:15:53 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/gym_signs/cyan_gym_sign": {
+    "criteria": {
+      "has_ingot": "2025-02-23 00:51:29 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:pokedex/pokedex_trigger": {
+    "criteria": {
+      "pokedex_base": "2025-02-23 00:41:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/evo_item/thunder_stone": {
+    "criteria": {
+      "has_evo_item": "2025-02-25 00:06:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-02-23 01:04:46 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/green_berry_wood_fence": {
+    "criteria": {
+      "has_planks": "2025-02-23 00:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-02-23 19:42:05 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/mower2": {
+    "criteria": {
+      "has_hopper": "2025-02-25 02:11:35 +0000",
+      "has_the_recipe": "2025-02-25 02:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "enchantinginfuser:recipes/decorations/advanced_enchanting_infuser": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-24 19:35:13 +0000",
+      "has_crying_obsidian": "2025-02-24 19:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-23 19:38:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/curry/brittle_bones": {
+    "criteria": {
+      "has_bone": "2025-02-23 20:04:39 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/movement/acro_bike_frame": {
+    "criteria": {
+      "has_ingot": "2025-02-23 00:51:29 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/love_ball_lid": {
+    "criteria": {
+      "has_poke_ball": "2025-02-23 00:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2025-02-24 20:00:50 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/rug/blue_rug": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-24 21:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-02-23 19:57:30 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/mail_box/lime_mail_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-23 01:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-02-23 00:45:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-23 19:20:34 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/lures/lure_ha_weak": {
+    "criteria": {
+      "has_case_recipe": "2025-02-23 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/mail_box/white_mail_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-23 01:24:09 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/trade_machine/magenta_trade_machine_dyed": {
+    "criteria": {
+      "has_trade_machine": "2025-02-25 00:09:50 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/brown_healer": {
+    "criteria": {
+      "has_diamond": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-23 01:04:46 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/silicon/silicon_equipment": {
+    "criteria": {
+      "has_silicon": "2025-02-23 01:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/mail_box/yellow_mail_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-23 01:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-02-23 00:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-02-23 00:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-02-23 01:24:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-02-23 00:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-02-23 19:32:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-02-23 00:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-02-23 01:17:23 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/incense_burner": {
+    "criteria": {
+      "has_coal": "2025-02-23 00:54:39 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/rocket/rocket_equipment": {
+    "criteria": {
+      "has_amethyst": "2025-02-23 01:02:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-24 21:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-23 19:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-23 19:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-23 19:32:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-24 23:54:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 00:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-02-23 21:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-02-24 23:54:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-02-24 20:13:23 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/light_gray_healer": {
+    "criteria": {
+      "has_diamond": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/movement_plate": {
+    "criteria": {
+      "has_redstone": "2025-02-23 01:17:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-02-23 21:52:01 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/flute/yellow_flute": {
+    "criteria": {
+      "has_yellow_shard": "2025-02-24 23:36:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-02-23 01:17:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-02-23 00:45:31 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/green_berry_wood_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-23 00:42:12 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/yellow_berry_wood_slab": {
+    "criteria": {
+      "has_planks": "2025-02-24 23:51:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-23 21:05:07 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/fire_stone/fire_stone_equipment": {
+    "criteria": {
+      "has_fire_stone": "2025-02-23 21:51:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-02-23 00:45:31 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/furnace/silicon_ore": {
+    "criteria": {
+      "has_ore": "2025-02-23 01:05:09 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/rug/light_gray_rug": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-24 20:27:52 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/building_infrastructure/picket_fence": {
+    "criteria": {
+      "has_fence": "2025-02-24 20:44:04 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/purple_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "largetools:recipes/tooltab/stone_backhaw": {
+    "criteria": {
+      "has_stone_ingot": "2025-02-23 21:29:50 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/umbrella/brown_umbrella": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-23 21:12:03 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/wing_ball_lid": {
+    "criteria": {
+      "has_ingot": "2025-02-23 21:42:08 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/computer/pc": {
+    "criteria": {
+      "has_pc": "2025-02-23 00:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-02-23 00:43:59 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/pink_healer": {
+    "criteria": {
+      "has_diamond": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/yellow_berry_wood_fence": {
+    "criteria": {
+      "has_planks": "2025-02-24 23:51:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-02-23 00:49:34 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/cushion_chair/blue_cushion_chair": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-24 21:16:23 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/green_berry_wood_sign": {
+    "criteria": {
+      "has_planks": "2025-02-23 00:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-02-23 00:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-23 00:47:19 +0000"
+    },
+    "done": true
+  },
+  "largetools:recipes/tooltab/gold_paxel": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-24 21:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-24 19:52:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-23 21:10:11 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/platinum/platinum_equipment": {
+    "criteria": {
+      "has_platinum": "2025-02-23 01:08:04 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/repeat_ball_lid": {
+    "criteria": {
+      "has_poke_ball": "2025-02-23 00:48:48 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/rug/red_rug": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-24 21:27:27 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/cushion_chair/light_blue_cushion_chair": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/umbrella/purple_umbrella": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/blast_furnace/silver_ore": {
+    "criteria": {
+      "has_ore": "2025-02-23 01:18:47 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/ancient_heavy_ball_lid": {
+    "criteria": {
+      "has_ingot": "2025-02-23 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/light_gray_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/lime_healer": {
+    "criteria": {
+      "has_diamond": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/lure_ball_lid": {
+    "criteria": {
+      "has_poke_ball": "2025-02-23 00:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-02-23 19:38:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-02-24 19:52:39 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/letter_box/magenta_letter_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-23 01:24:09 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/lures/lure_ha_strong": {
+    "criteria": {
+      "has_case_recipe": "2025-02-23 00:56:07 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/cushion_chair/pink_cushion_chair": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-23 19:38:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/heavy_ball_lid": {
+    "criteria": {
+      "has_poke_ball": "2025-02-23 00:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 00:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-24 21:27:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-23 19:42:05 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/moon_ball_lid": {
+    "criteria": {
+      "has_poke_ball": "2025-02-23 00:48:48 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/trade_machine/yellow_trade_machine_dyed": {
+    "criteria": {
+      "has_trade_machine": "2025-02-25 00:09:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-02-23 01:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-02-23 21:09:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-24 21:16:23 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/cushion_chair/orange_cushion_chair": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-23 19:20:34 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/umbrella/black_umbrella_dyed": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-02-23 21:12:49 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/letter_box/light_blue_letter_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-23 01:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-24 20:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-02-23 21:12:49 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/evo_item/leaf_stone": {
+    "criteria": {
+      "has_evo_item": "2025-02-24 23:39:52 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/cushion_chair/light_gray_cushion_chair": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-02-23 01:17:23 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/letter_box/purple_letter_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-23 01:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-23 20:22:19 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/clock/blue_clock": {
+    "criteria": {
+      "has_dye": "2025-02-24 23:11:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-02-23 00:45:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-02-23 21:52:01 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/umbrella/lime_umbrella_dyed": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/letter_box/yellow_letter_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-23 01:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot": {
+    "criteria": {
+      "has_iron_ore": "2025-02-23 00:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2025-02-24 23:11:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_blue_dye": "2025-02-24 23:11:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2025-02-23 19:32:26 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/rug/light_blue_rug": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:balls/ultra_ball_capture": {
+    "criteria": {
+      "ultra_ball_capture": "2025-02-23 21:54:54 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/level_ball_lid": {
+    "criteria": {
+      "has_poke_ball": "2025-02-23 00:48:48 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/curry/mixed_mushrooms": {
+    "criteria": {
+      "has_tiny_mushroom": "2025-02-24 21:18:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-02-23 01:24:09 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/mail_box/black_mail_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-23 01:24:09 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/blast_furnace/pink_apricorn": {
+    "criteria": {
+      "has_apricorn": "2025-02-23 19:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-02-24 21:15:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:balls/dusk_ball_capture": {
+    "criteria": {
+      "dusk_ball_capture": "2025-02-24 19:46:29 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/lures/lure_casing_weak": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-02-23 19:20:34 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/yellow_berry_wood_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-24 23:51:13 +0000"
+    },
+    "done": true
+  },
+  "largetools:recipes/tooltab/diamond_hammer": {
+    "criteria": {
+      "has_diamond_ingot": "2025-02-23 20:42:28 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/green_berry_wood_planks_dyed": {
+    "criteria": {
+      "has_planks": "2025-02-24 23:51:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-02-23 20:14:26 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/gym_signs/brown_gym_sign": {
+    "criteria": {
+      "has_ingot": "2025-02-23 00:51:29 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/ball/dream_ball_new": {
+    "criteria": {
+      "has_dusk_ball": "2025-02-23 21:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-02-23 00:49:34 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/computer/red_pc": {
+    "criteria": {
+      "has_pc": "2025-02-23 00:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-02-23 00:50:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-23 19:32:26 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/trade_machine/lime_trade_machine_dyed": {
+    "criteria": {
+      "has_trade_machine": "2025-02-25 00:09:50 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/backpack_small": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/yellow_berry_wood_boat": {
+    "criteria": {
+      "has_planks": "2025-02-24 23:51:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2025-02-23 21:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-02-23 00:49:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2025-02-23 19:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-23 21:12:49 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/trade_machine/gray_trade_machine_dyed": {
+    "criteria": {
+      "has_trade_machine": "2025-02-25 00:09:50 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/cushion_chair/gray_cushion_chair": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/juice/purple_juice": {
+    "criteria": {
+      "has_purple_juice_berry_3": "2025-02-23 00:42:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-23 00:47:19 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/bench/bench": {
+    "criteria": {
+      "has_planks": "2025-02-23 19:20:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-24 20:27:52 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/item_finder": {
+    "criteria": {
+      "has_redstone": "2025-02-23 01:17:23 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/amethyst/amethyst_equipment": {
+    "criteria": {
+      "has_amethyst": "2025-02-23 01:02:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-24 21:15:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2025-02-23 00:42:33 +0000"
+    },
+    "done": true
+  },
+  "largetools:recipes/tooltab/diamond_tiller": {
+    "criteria": {
+      "has_diamond_ingot": "2025-02-23 20:42:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-02-23 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/trade_machine/cyan_trade_machine_dyed": {
+    "criteria": {
+      "has_trade_machine": "2025-02-25 00:09:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 00:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-02-23 19:57:30 +0000"
+    },
+    "done": true
+  },
+  "largetools:recipes/tooltab/packed_dark_oak": {
+    "criteria": {
+      "has_dark_oak": "2025-02-24 23:54:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-02-23 01:07:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-02-25 02:57:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 00:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-23 19:32:29 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/mail_box/gray_mail_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-23 01:24:09 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/camera": {
+    "criteria": {
+      "has_film": "2025-02-23 00:41:55 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/umbrella/lime_umbrella": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/building_infrastructure/wooden_flooring": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-23 01:24:09 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/trade_machine/purple_trade_machine_dyed": {
+    "criteria": {
+      "has_trade_machine": "2025-02-25 00:09:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-02-23 00:47:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-24 20:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_blackstone_bricks": "2025-02-24 21:15:11 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/letter_box/orange_letter_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-23 01:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2025-02-23 21:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 00:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-02-23 21:09:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-23 00:47:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-23 19:38:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/umbrella/blue_umbrella": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/cushion_chair/lime_cushion_chair": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/umbrella/magenta_umbrella_dyed": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2025-02-23 00:42:12 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/evo_item/fire_stone": {
+    "criteria": {
+      "has_evo_item": "2025-02-23 01:04:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 00:50:59 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/lures/lure_type_strong": {
+    "criteria": {
+      "has_enigma": "2025-02-23 00:42:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-02-23 00:43:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-24 21:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-02-25 02:25:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-24 19:52:39 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/yellow_healer": {
+    "criteria": {
+      "has_diamond": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/green_berry_wood_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-23 00:42:12 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/umbrella/cyan_umbrella": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-02-23 00:42:33 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/magenta_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/yellow_berry_wood_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-24 23:51:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-02-24 23:56:01 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:specs/clobbopus_jump_capture_all": {
+    "criteria": {
+      "0": "2025-02-23 21:54:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-02-23 00:42:12 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/flute/red_flute": {
+    "criteria": {
+      "has_red_shard": "2025-02-24 23:32:52 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/incense/all_incense": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 00:54:39 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/gym_signs/black_gym_sign": {
+    "criteria": {
+      "has_ingot": "2025-02-23 00:51:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-24 21:15:11 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/lime_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/dusk_ball_lid": {
+    "criteria": {
+      "has_poke_ball": "2025-02-23 00:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-24 21:27:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-02-23 00:50:08 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/yellow_berry_wood_sign": {
+    "criteria": {
+      "has_planks": "2025-02-24 23:51:13 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/rug/brown_rug": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-02-23 00:45:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-23 21:12:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-02-23 00:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-23 21:12:49 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/gym_signs/light_blue_gym_sign": {
+    "criteria": {
+      "has_ingot": "2025-02-23 00:51:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-23 01:25:13 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/umbrella/red_umbrella": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/rug/black_rug": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/rug/yellow_rug": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/trade_machine/white_trade_machine_dyed": {
+    "criteria": {
+      "has_trade_machine": "2025-02-25 00:09:50 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/juice/yellow_juice": {
+    "criteria": {
+      "has_yellow_juice_berry_1": "2025-02-23 00:51:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-02-23 21:31:30 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/trade_machine/trade_holder_right": {
+    "criteria": {
+      "has_poke_ball": "2025-02-23 00:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 00:50:59 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/aluminum_base": {
+    "criteria": {
+      "has_ingot": "2025-02-23 00:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-24 19:52:39 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/cushion_chair/green_cushion_chair": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/badgecase/blackbadgecase": {
+    "criteria": {
+      "has_apricorn": "2025-02-23 19:20:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-24 21:16:23 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/ancient_great_ball_lid": {
+    "criteria": {
+      "has_ingot": "2025-02-23 21:42:08 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/building_infrastructure/street_light": {
+    "criteria": {
+      "has_glass_pane": "2025-02-24 20:27:52 +0000"
+    },
+    "done": true
+  },
+  "largetools:recipes/tooltab/iron_saw": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 20:14:26 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/flute/black_flute": {
+    "criteria": {
+      "has_black_shard": "2025-02-24 23:36:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-02-23 19:30:23 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/trade_machine/trade_monitor": {
+    "criteria": {
+      "has_poke_ball": "2025-02-23 00:41:55 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/furnace/bauxite_ore": {
+    "criteria": {
+      "has_ore": "2025-02-23 00:57:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-02-23 00:53:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-02-24 20:00:50 +0000"
+    },
+    "done": true
+  },
+  "largetools:recipes/tooltab/gold_backhaw": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-24 21:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-02-23 00:45:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-02-23 00:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-23 19:20:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-23 19:32:26 +0000"
+    },
+    "done": true
+  },
+  "largetools:recipes/tooltab/iron_backhaw": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 20:14:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-02-23 00:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/lures/lure_casing_strong": {
+    "criteria": {
+      "has_crystal": "2025-02-23 00:56:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-02-24 21:34:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-24 21:15:13 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/leaden_ball_lid": {
+    "criteria": {
+      "has_ingot": "2025-02-23 21:42:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-23 19:38:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/heal_ball_lid": {
+    "criteria": {
+      "has_apricorn": "2025-02-23 01:20:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-02-23 19:57:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/movement/mach_bike_frame": {
+    "criteria": {
+      "has_ingot": "2025-02-23 00:51:29 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/umbrella/black_umbrella": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/gym_signs/green_gym_sign": {
+    "criteria": {
+      "has_ingot": "2025-02-23 00:51:29 +0000"
+    },
+    "done": true
+  },
+  "largetools:recipes/tooltab/iron_tiller": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 20:14:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-23 00:48:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-02-23 21:17:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-02-23 21:33:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-02-23 01:17:23 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/terrain/rock": {
+    "criteria": {
+      "has_stone": "2025-02-24 19:52:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-24 20:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 00:50:59 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/umbrella/light_blue_umbrella": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-02-23 21:44:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-23 19:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-23 21:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/trade_machine/black_trade_machine_dyed": {
+    "criteria": {
+      "has_trade_machine": "2025-02-25 00:09:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-23 21:10:11 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/brown_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-02-23 19:20:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-24 20:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-23 21:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-02-24 20:13:23 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/gym_signs/white_gym_sign": {
+    "criteria": {
+      "has_ingot": "2025-02-23 00:51:29 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/gym_signs/red_gym_sign": {
+    "criteria": {
+      "has_ingot": "2025-02-23 00:51:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-24 20:27:52 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/furnace/pink_apricorn": {
+    "criteria": {
+      "has_apricorn": "2025-02-23 19:21:47 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/curry_dex": {
+    "criteria": {
+      "has_curry_ingredient": "2025-02-23 19:28:25 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/chair/white_chair": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/green_berry_wood_door": {
+    "criteria": {
+      "has_planks": "2025-02-23 00:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-24 21:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_blue_flower": "2025-02-24 23:11:33 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/gigaton_ball_lid": {
+    "criteria": {
+      "has_ingot": "2025-02-23 01:08:04 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/mail_box/purple_mail_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-23 01:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-02-23 21:44:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-24 20:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-23 21:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-23 21:12:49 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/small_tv": {
+    "criteria": {
+      "has_glass_pane": "2025-02-24 20:27:52 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/umbrella/light_blue_umbrella_dyed": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-02-23 00:43:47 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/gym_signs/pink_gym_sign": {
+    "criteria": {
+      "has_ingot": "2025-02-23 00:51:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-24 21:15:11 +0000"
+    },
+    "done": true
+  },
+  "enchantinginfuser:recipes/decorations/enchanting_infuser": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-24 19:35:13 +0000",
+      "has_crying_obsidian": "2025-02-24 19:35:13 +0000",
+      "has_the_recipe": "2025-02-24 19:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2025-02-25 00:02:14 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/umbrella/green_umbrella": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/quick_ball_lid": {
+    "criteria": {
+      "has_poke_ball": "2025-02-23 00:48:48 +0000"
+    },
+    "done": true
+  },
+  "largetools:recipes/tooltab/packed_oak": {
+    "criteria": {
+      "has_oak": "2025-02-23 21:54:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-02-23 00:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-02-23 21:54:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-23 19:38:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/red_berry_wood_planks_dyed": {
+    "criteria": {
+      "has_planks": "2025-02-24 23:51:13 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/badgecase/greenbadgecase": {
+    "criteria": {
+      "has_apricorn": "2025-02-23 01:20:25 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/computer/pink_pc": {
+    "criteria": {
+      "has_pc": "2025-02-23 00:51:27 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/mug_ball": {
+    "criteria": {
+      "has_poke_ball": "2025-02-23 00:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-24 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/pink_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-02-23 19:57:30 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/rug/pink_rug": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/blue_healer": {
+    "criteria": {
+      "has_diamond": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-02-23 20:04:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-23 19:38:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/folding_chair/white_folding_chair_dyed": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/filter_configurator": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/vanilla/diamond_hammer": {
+    "criteria": {
+      "has_diamond": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/purple_berry_wood_planks_dyed": {
+    "criteria": {
+      "has_planks": "2025-02-24 23:51:13 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/green_berry_wood_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-23 00:42:12 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/sapphire/sapphire_equipment": {
+    "criteria": {
+      "has_sapphire": "2025-02-23 00:56:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-02-24 19:52:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2025-02-23 00:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/building_infrastructure/window1": {
+    "criteria": {
+      "has_glass_pane": "2025-02-24 20:27:52 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/letter_box/lime_letter_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-23 01:24:09 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-02-24 19:51:17 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/building_infrastructure/window2": {
+    "criteria": {
+      "has_glass_pane": "2025-02-24 20:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-23 01:04:46 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/gray_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-23 21:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-23 21:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-02-23 00:55:09 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/couch/white_couch": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/black_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-02-23 01:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-02-23 00:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-02-24 19:52:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-02-23 01:00:20 +0000",
+      "minecraft:mountains": "2025-02-23 01:18:58 +0000",
+      "minecraft:taiga": "2025-02-23 00:41:18 +0000",
+      "minecraft:taiga_hills": "2025-02-23 00:52:09 +0000",
+      "minecraft:birch_forest": "2025-02-24 20:10:34 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-02-25 02:13:26 +0000",
+      "minecraft:beach": "2025-02-24 20:10:07 +0000",
+      "minecraft:dark_forest": "2025-02-23 19:36:39 +0000",
+      "minecraft:river": "2025-02-23 01:18:41 +0000",
+      "minecraft:lukewarm_ocean": "2025-02-25 02:13:28 +0000",
+      "minecraft:birch_forest_hills": "2025-02-25 02:42:41 +0000",
+      "minecraft:wooded_mountains": "2025-02-23 01:20:24 +0000",
+      "minecraft:wooded_hills": "2025-02-24 19:58:37 +0000",
+      "minecraft:stone_shore": "2025-02-24 20:08:48 +0000",
+      "minecraft:plains": "2025-02-23 00:43:05 +0000"
+    },
+    "done": false
+  },
+  "pixelmon:recipes/decor/rug/green_rug": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_from_smelting": {
+    "criteria": {
+      "has_lapis_ore": "2025-02-24 23:32:37 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/trade_machine/blue_trade_machine_dyed": {
+    "criteria": {
+      "has_trade_machine": "2025-02-25 00:09:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-02-23 00:42:12 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/mail_box/light_blue_mail_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-23 01:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "largetools:recipes/tooltab/packed_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2025-02-23 20:15:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting": {
+    "criteria": {
+      "has_redstone_ore": "2025-02-24 23:36:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-02-23 19:34:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-02-24 19:52:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-02-23 21:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-02-24 21:13:48 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/medicine/pinap_juice": {
+    "criteria": {
+      "has_berry": "2025-02-25 00:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-02-23 00:43:33 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/old_rod": {
+    "criteria": {
+      "has_string": "2025-02-23 19:57:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-23 21:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-23 19:32:29 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/mail_box/brown_mail_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-23 01:24:09 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/trash_can": {
+    "criteria": {
+      "has_bucket": "2025-02-23 19:27:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/purple_healer": {
+    "criteria": {
+      "has_diamond": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-24 20:27:52 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/mail_box/magenta_mail_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-23 01:24:09 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/computer/light_gray_pc": {
+    "criteria": {
+      "has_pc": "2025-02-23 00:51:27 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/blast_furnace/platinum_ore": {
+    "criteria": {
+      "has_ore": "2025-02-23 01:02:42 +0000"
+    },
+    "done": true
+  },
+  "largetools:recipes/tooltab/packed_crimson": {
+    "criteria": {
+      "has_crimson": "2025-02-23 21:09:15 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/film": {
+    "criteria": {
+      "has_camera": "2025-02-23 00:45:34 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/computer/yellow_pc": {
+    "criteria": {
+      "has_pc": "2025-02-23 00:51:27 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/vanilla/wooden_hammer": {
+    "criteria": {
+      "has_planks": "2025-02-23 00:42:12 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/cyan_healer": {
+    "criteria": {
+      "has_diamond": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:specs/magikarp_jump_capture_all": {
+    "criteria": {
+      "0": "2025-02-23 21:54:54 +0000"
+    },
+    "done": false
+  },
+  "pixelmon:recipes/equipment/vanilla/gold_hammer": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-24 21:16:23 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/nest_ball_lid": {
+    "criteria": {
+      "has_apricorn": "2025-02-23 01:20:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-02-23 19:32:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-24 20:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-02-23 19:32:26 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/juice/blue_juice": {
+    "criteria": {
+      "has_blue_juice_berry_1": "2025-02-24 23:59:13 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/dive_ball_lid": {
+    "criteria": {
+      "has_poke_ball": "2025-02-23 00:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-23 00:48:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-02-23 19:56:40 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/elevator": {
+    "criteria": {
+      "has_ingot": "2025-02-23 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/mail_box/orange_mail_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-23 01:24:09 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/letter_box/green_letter_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-23 01:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-02-23 00:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-02-23 21:31:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-02-23 00:47:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/gym_signs/lime_gym_sign": {
+    "criteria": {
+      "has_ingot": "2025-02-23 00:51:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-23 19:32:26 +0000"
+    },
+    "done": true
+  },
+  "largetools:recipes/tooltab/stone_paxel": {
+    "criteria": {
+      "has_stone_ingot": "2025-02-23 21:29:50 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/umbrella/cyan_umbrella_dyed": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/mail_box/light_gray_mail_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-23 01:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-24 21:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-02-23 00:50:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-23 01:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-02-24 19:52:39 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/yellow_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/umbrella/white_umbrella": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-23 21:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-02-23 21:17:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-02-24 20:32:53 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/max_repel": {
+    "criteria": {
+      "has_ingot": "2025-02-23 00:51:29 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/terrain/poke_dirt": {
+    "criteria": {
+      "has_dirt": "2025-02-23 01:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-02-23 00:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-02-23 21:07:41 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/umbrella/white_umbrella_dyed": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/letter_box/cyan_letter_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-23 01:24:09 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/cookingpot": {
+    "criteria": {
+      "has_ingot": "2025-02-23 00:51:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-02-24 23:54:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-23 19:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "baked_potato": "2025-02-24 20:43:20 +0000",
+      "apple": "2025-02-24 19:58:44 +0000",
+      "pumpkin_pie": "2025-02-24 20:16:42 +0000",
+      "bread": "2025-02-23 21:35:43 +0000",
+      "golden_carrot": "2025-02-24 21:18:38 +0000",
+      "cod": "2025-02-24 20:14:25 +0000",
+      "carrot": "2025-02-24 20:00:41 +0000"
+    },
+    "done": false
+  },
+  "pixelmon:recipes/pokeball/lid/fast_ball_lid": {
+    "criteria": {
+      "has_poke_ball": "2025-02-23 00:48:48 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/letter_box/pink_letter_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-23 01:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-02-24 20:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-24 21:27:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-02-23 00:43:33 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/gym_signs/orange_gym_sign": {
+    "criteria": {
+      "has_ingot": "2025-02-23 00:51:29 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/umbrella/magenta_umbrella": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-02-23 01:17:23 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/yellow_berry_wood_door": {
+    "criteria": {
+      "has_planks": "2025-02-24 23:51:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-23 21:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-24 20:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-23 21:44:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-02-23 00:50:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-02-23 21:52:01 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/mail_box/blue_mail_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-23 01:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-02-24 23:11:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-02-23 01:24:10 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/badgecase/whitebadgecase": {
+    "criteria": {
+      "has_apricorn": "2025-02-23 19:20:40 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/stonecutter/sky_tumblestone": {
+    "criteria": {
+      "has_tumblestone": "2025-02-24 23:32:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-02-23 21:07:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-23 19:38:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/computer/light_blue_pc": {
+    "criteria": {
+      "has_pc": "2025-02-23 00:51:27 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/umbrella/light_gray_umbrella_dyed": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/umbrella/gray_umbrella": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/cyan_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/armchair/white_armchair": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-02-23 00:47:32 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/rug/white_rug": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "largetools:recipes/tooltab/diamond_backhoe": {
+    "criteria": {
+      "has_diamond_ingot": "2025-02-23 20:42:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-02-23 21:20:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-02-23 00:51:08 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/letter_box/white_letter_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-23 01:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-23 20:22:19 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/aluminium/aluminium_equipment": {
+    "criteria": {
+      "has_aluminium": "2025-02-23 00:51:29 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/rug/cyan_rug": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "largetools:recipes/tooltab/gold_backhoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-24 21:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-02-23 00:43:33 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/computer/magenta_pc": {
+    "criteria": {
+      "has_pc": "2025-02-23 00:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-02-23 00:47:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/rug/lime_rug": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-24 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-02-24 23:34:14 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/umbrella/purple_umbrella_dyed": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-24 23:56:01 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/furnace/blue_apricorn": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 19:20:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-02-23 19:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-24 23:56:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-23 00:47:19 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/mail_box/green_mail_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-23 01:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-24 20:27:52 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/letter_box/light_gray_letter_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-23 01:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-02-23 00:50:59 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/gray_healer": {
+    "criteria": {
+      "has_diamond": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/furnace/platinum_ore": {
+    "criteria": {
+      "has_ore": "2025-02-23 01:02:42 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/letter_box/brown_letter_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-23 01:24:09 +0000"
+    },
+    "done": true
+  },
+  "largetools:recipes/tooltab/iron_hammer": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 20:14:26 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/stonecutter/tumblestone": {
+    "criteria": {
+      "has_tumblestone": "2025-02-24 23:32:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 00:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/gym_signs/light_gray_gym_sign": {
+    "criteria": {
+      "has_ingot": "2025-02-23 00:51:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-23 19:42:05 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/lures/lure_type_weak": {
+    "criteria": {
+      "has_case_recipe": "2025-02-23 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-24 21:15:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-02-23 00:51:08 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/letter_box/blue_letter_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-23 01:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-02-23 20:14:26 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/light_blue_healer": {
+    "criteria": {
+      "has_diamond": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting": {
+    "criteria": {
+      "has_redstone_ore": "2025-02-24 23:36:19 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/mail_box/pink_mail_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-23 01:24:09 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/furnace/white_apricorn": {
+    "criteria": {
+      "has_apricorn": "2025-02-23 19:20:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-23 19:38:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/gym_signs/magenta_gym_sign": {
+    "criteria": {
+      "has_ingot": "2025-02-23 00:51:29 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/plasma/plasma_equipment": {
+    "criteria": {
+      "has_crystal": "2025-02-23 00:56:07 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/trade_machine/green_trade_machine_dyed": {
+    "criteria": {
+      "has_trade_machine": "2025-02-25 00:09:50 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/trade_machine/trade_holder_left": {
+    "criteria": {
+      "has_poke_ball": "2025-02-23 00:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/cloning/cloner_cord": {
+    "criteria": {
+      "has_obsidian": "2025-02-23 20:22:19 +0000"
+    },
+    "done": true
+  },
+  "largetools:recipes/tooltab/iron_backhoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 20:14:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-02-24 21:56:09 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/platinum_base": {
+    "criteria": {
+      "has_ingot": "2025-02-23 00:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-23 21:44:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-02-23 19:57:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/silver/silver_equipment": {
+    "criteria": {
+      "has_silver": "2025-02-23 21:42:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-02-23 00:49:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-02-23 00:49:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/computer/white_pc": {
+    "criteria": {
+      "has_pc": "2025-02-23 00:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-02-23 21:08:39 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/green_berry_wood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-23 00:42:12 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/cushion_chair/brown_cushion_chair": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/yellow_berry_wood_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-24 23:51:13 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:wild_battle_victories/wild_battle_victory_trigger": {
+    "criteria": {
+      "wild_battle_victory_trigger": "2025-02-24 19:52:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 00:50:59 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/dusk_stone/dusk_stone_equipment": {
+    "criteria": {
+      "has_dusk_stone": "2025-02-24 23:32:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-02-23 21:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-23 19:32:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-02-23 00:54:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2025-02-23 19:47:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-24 21:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-02-23 00:43:33 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/lures/lure_shiny_weak": {
+    "criteria": {
+      "has_case_recipe": "2025-02-23 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-02-23 01:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-02-23 00:47:19 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/stick_plate": {
+    "criteria": {
+      "has_redstone": "2025-02-23 01:17:23 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/mower": {
+    "criteria": {
+      "has_hopper": "2025-02-25 02:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-23 21:12:49 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/juice/green_juice": {
+    "criteria": {
+      "has_green_juice_berry_1": "2025-02-23 00:50:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-23 19:32:29 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/end_table": {
+    "criteria": {
+      "has_crafting_table": "2025-02-23 00:42:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_from_blasting": {
+    "criteria": {
+      "has_lapis_ore": "2025-02-24 23:32:37 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/blast_furnace/bauxite_ore": {
+    "criteria": {
+      "has_ore": "2025-02-23 00:57:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-24 20:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-02-24 21:15:13 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/umbrella/blue_umbrella_dyed": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/umbrella/gray_umbrella_dyed": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-23 21:54:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-02-23 00:42:13 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/computer/cyan_pc": {
+    "criteria": {
+      "has_pc": "2025-02-23 00:51:27 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/trade_machine/red_trade_machine_dyed": {
+    "criteria": {
+      "has_trade_machine": "2025-02-25 00:09:50 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/trade_machine/trade_panel": {
+    "criteria": {
+      "has_poke_ball": "2025-02-23 00:41:55 +0000"
+    },
+    "done": true
+  },
+  "largetools:recipes/tooltab/stone_saw": {
+    "criteria": {
+      "has_stone_ingot": "2025-02-23 21:29:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-24 21:27:27 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/orange_healer": {
+    "criteria": {
+      "has_diamond": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/juice/pink_juice": {
+    "criteria": {
+      "has_pink_juice_berry_1": "2025-02-25 00:08:31 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/furnace/silver_ore": {
+    "criteria": {
+      "has_ore": "2025-02-23 01:18:47 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/letter_box/red_letter_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-23 01:24:09 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/repel": {
+    "criteria": {
+      "has_ingot": "2025-02-23 00:51:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-02-23 01:17:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-02-23 19:20:34 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/iron_base": {
+    "criteria": {
+      "has_ingot": "2025-02-23 00:41:55 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:specs/spec_trigger": {
+    "criteria": {
+      "unown_capture_all": "2025-02-23 21:54:54 +0000",
+      "eeveelution_capture_all": "2025-02-23 21:54:54 +0000",
+      "minior_capture_all": "2025-02-23 21:54:54 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/wooden_base": {
+    "criteria": {
+      "has_slab": "2025-02-23 00:41:55 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/light_blue_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-02-23 21:07:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-24 23:56:01 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/green_berry_wood_boat": {
+    "criteria": {
+      "has_planks": "2025-02-23 00:42:12 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/umbrella/green_umbrella_dyed": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-02-24 20:13:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/blast_furnace/silicon_ore": {
+    "criteria": {
+      "has_ore": "2025-02-23 01:05:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2025-02-23 21:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-23 21:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-02-24 23:34:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-24 21:22:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-23 21:12:49 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/fridge": {
+    "criteria": {
+      "has_aluminum": "2025-02-23 00:51:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-02-23 00:51:08 +0000"
+    },
+    "done": true
+  },
+  "largetools:recipes/tooltab/iron_paxel": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 20:14:26 +0000"
+    },
+    "done": true
+  },
+  "largetools:recipes/building_blocks/cobblestone_from_packed_cobblestone": {
+    "criteria": {
+      "has_packed_cobblestone": "2025-02-23 21:29:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-24 19:52:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/green_berry_wood_planks": {
+    "criteria": {
+      "has_log": "2025-02-23 00:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-02-23 00:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-02-23 21:07:41 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/yellow_berry_wood_planks": {
+    "criteria": {
+      "has_log": "2025-02-23 01:20:25 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/thunder_stone/thunder_stone_equipment": {
+    "criteria": {
+      "has_thunder_stone": "2025-02-24 23:36:19 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/trade_machine/pink_trade_machine_dyed": {
+    "criteria": {
+      "has_trade_machine": "2025-02-25 00:09:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-02-23 01:17:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-24 21:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-24 21:27:27 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/trade_machine/light_blue_trade_machine_dyed": {
+    "criteria": {
+      "has_trade_machine": "2025-02-25 00:09:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-02-24 19:52:39 +0000"
+    },
+    "done": true
+  },
+  "largetools:recipes/tooltab/diamond_paxel": {
+    "criteria": {
+      "has_diamond_ingot": "2025-02-23 20:42:28 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/building_infrastructure/bridge_block": {
+    "criteria": {
+      "has_logs": "2025-02-23 00:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-24 20:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-02-25 00:57:27 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/computer/gray_pc": {
+    "criteria": {
+      "has_pc": "2025-02-23 00:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-02-24 20:13:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-02-24 23:56:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-02-23 19:42:35 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/mystery_box": {
+    "criteria": {
+      "has_scrap": "2025-02-23 21:50:11 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/umbrella/pink_umbrella": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/umbrella/orange_umbrella": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/feather_ball_lid": {
+    "criteria": {
+      "has_ingot": "2025-02-23 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bonemeal": "2025-02-25 00:33:26 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}
