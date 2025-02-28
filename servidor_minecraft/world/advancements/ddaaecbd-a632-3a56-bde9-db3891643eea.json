@@ -39,7 +39,9 @@
   },
   "cobblemon:craft_all_balls": {
     "criteria": {
+      "quick_ball": "2025-02-28 05:02:47 +0000",
       "verdant_ball": "2025-02-28 02:46:26 +0000",
+      "ultra_ball": "2025-02-28 05:04:42 +0000",
       "poke_ball": "2025-02-28 01:44:33 +0000"
     },
     "done": false
@@ -269,10 +271,11 @@
   },
   "cobblemon:recipes/balls/lure_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-02-28 05:02:18 +0000",
       "has_green_apricorn": "2025-02-28 01:52:27 +0000",
       "has_red_apricorn": "2025-02-28 02:06:38 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:adventure/root": {
     "criteria": {
@@ -709,10 +712,11 @@
   },
   "cobblemon:recipes/balls/dream_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-02-28 05:02:18 +0000",
       "has_red_apricorn": "2025-02-28 02:06:38 +0000",
       "has_pink_apricorn": "2025-02-28 02:17:00 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/repeat_ball": {
     "criteria": {
@@ -747,9 +751,10 @@
   },
   "cobblemon:recipes/balls/great_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-02-28 05:02:18 +0000",
       "has_red_apricorn": "2025-02-28 02:06:38 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/luxury_ball": {
     "criteria": {
@@ -866,17 +871,19 @@
   },
   "cobblemon:recipes/balls/heavy_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-02-28 05:02:18 +0000",
       "has_black_apricorn": "2025-02-28 02:08:15 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/moon_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-02-28 05:02:18 +0000",
       "has_black_apricorn": "2025-02-28 02:08:15 +0000",
       "has_white_apricorn": "2025-02-28 02:53:01 +0000",
       "has_yellow_apricorn": "2025-02-28 02:17:18 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/ultra_ball": {
     "criteria": {
@@ -893,10 +900,11 @@
   },
   "cobblemon:recipes/balls/net_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-02-28 05:02:18 +0000",
       "has_black_apricorn": "2025-02-28 02:08:15 +0000",
       "has_white_apricorn": "2025-02-28 02:53:01 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:harvest_apricorn_seed": {
     "criteria": {
@@ -980,9 +988,10 @@
   },
   "cobblemon:recipes/balls/quick_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-02-28 05:02:18 +0000",
       "has_yellow_apricorn": "2025-02-28 02:17:18 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
@@ -1328,9 +1337,10 @@
   },
   "cobblemon:recipes/balls/dive_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-02-28 05:02:18 +0000",
       "has_white_apricorn": "2025-02-28 02:53:01 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/premier_ball": {
     "criteria": {
@@ -1398,15 +1408,39 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-02-28 05:01:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-02-28 04:50:58 +0000"
     },
     "done": true
   },
+  "cobblemon:recipes/agriculture/blue_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-02-28 05:02:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-02-28 04:37:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-28 05:02:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-28 05:02:05 +0000"
     },
     "done": true
   },
@@ -1440,6 +1474,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-28 05:02:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-28 05:02:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-02-28 04:50:58 +0000"
@@ -1449,6 +1495,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-02-28 04:51:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-28 05:02:05 +0000"
     },
     "done": true
   },
@@ -1464,6 +1516,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-28 05:02:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-28 04:26:16 +0000"
@@ -1473,6 +1531,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-02-28 04:26:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-28 05:02:05 +0000"
     },
     "done": true
   },
@@ -1509,6 +1573,12 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-02-28 04:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-28 05:02:05 +0000"
     },
     "done": true
   },
@@ -1596,6 +1666,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-28 05:02:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-28 04:36:42 +0000"
@@ -1650,6 +1726,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-02-28 04:58:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-28 04:26:16 +0000"
@@ -1689,6 +1771,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-28 04:36:42 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/gilded_chests": {
+    "criteria": {
+      "has_gold": "2025-02-28 05:02:05 +0000"
     },
     "done": true
   },
@@ -1734,6 +1822,18 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/azure_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2025-02-28 05:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-28 05:02:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-28 04:26:16 +0000"
@@ -1743,6 +1843,12 @@
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-02-28 04:37:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-28 05:02:05 +0000"
     },
     "done": true
   },
@@ -1782,6 +1888,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-28 05:02:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-28 04:36:42 +0000"
@@ -1803,6 +1915,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-02-28 04:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-28 05:02:05 +0000"
     },
     "done": true
   },
