@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-02-28 06:20:16 +0000",
       "minecraft:taiga": "2025-02-28 03:05:32 +0000",
       "minecraft:frozen_river": "2025-02-28 06:01:53 +0000",
       "minecraft:cherry_grove": "2025-02-28 01:45:09 +0000",
@@ -23,6 +24,7 @@
       "minecraft:frozen_ocean": "2025-02-28 06:02:10 +0000",
       "minecraft:ocean": "2025-02-28 01:53:54 +0000",
       "minecraft:jungle": "2025-02-28 05:39:04 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-02-28 06:17:56 +0000",
       "minecraft:snowy_beach": "2025-02-28 05:59:33 +0000",
       "minecraft:flower_forest": "2025-02-28 05:54:37 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-28 02:13:08 +0000",
@@ -709,8 +711,10 @@
   "cobblemon:obtain_all_berries": {
     "criteria": {
       "obtain_pinap_berry": "2025-02-28 03:38:39 +0000",
+      "obtain_aspear_berry": "2025-02-28 06:16:11 +0000",
       "obtain_razz_berry": "2025-02-28 02:07:52 +0000",
-      "obtain_oran_berry": "2025-02-28 02:06:20 +0000"
+      "obtain_oran_berry": "2025-02-28 02:06:20 +0000",
+      "obtain_wacan_berry": "2025-02-28 06:18:55 +0000"
     },
     "done": false
   },
@@ -1436,6 +1440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-02-28 06:18:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-02-28 04:37:50 +0000"
@@ -1469,6 +1479,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-02-28 04:37:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-02-28 06:18:55 +0000"
     },
     "done": true
   },
@@ -1622,6 +1638,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-02-28 06:23:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-02-28 04:26:16 +0000"
@@ -1667,6 +1689,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-02-28 04:51:57 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/whipped_dream": {
+    "criteria": {
+      "has_sweet_berry": "2025-02-28 06:16:32 +0000"
     },
     "done": true
   },
@@ -1772,6 +1800,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-02-28 06:23:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-02-28 04:58:37 +0000"
@@ -1853,6 +1887,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-28 04:36:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-02-28 06:18:55 +0000"
     },
     "done": true
   },

@@ -961,3 +961,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Feb2025 06:13:37.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [There's a Leek in the Boat!]
 [28Feb2025 06:14:08.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Set own game mode to Creative Mode]
 [28Feb2025 06:14:24.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Set own game mode to Survival Mode]
+[28Feb2025 06:25:42.813] [Worker-Main-79/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[28Feb2025 06:25:42.892] [Worker-Main-79/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[28Feb2025 06:25:42.892] [Worker-Main-79/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[28Feb2025 06:26:10.890] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Och8Z lost connection: Disconnected
+[28Feb2025 06:26:10.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z left the game
+[28Feb2025 06:26:17.545] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5650fd8b[id=<null>,name=Och8Z,properties={},legacy=false] (/127.10.249.163:56595) lost connection: Disconnected
+[28Feb2025 06:26:50.984] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1bb675a0[id=<null>,name=Och8Z,properties={},legacy=false] (/127.10.249.163:32769) lost connection: Disconnected
+[28Feb2025 06:27:12.979] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Och8Z[/127.10.249.163:37659] logged in with entity id 46217 at (3731.718973642009, 116.00133597911214, 4766.377804166739)
+[28Feb2025 06:27:13.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z joined the game
