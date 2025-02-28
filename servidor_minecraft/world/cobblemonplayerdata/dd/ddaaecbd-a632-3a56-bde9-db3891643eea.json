@@ -8,25 +8,29 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 13,
+    "totalCaptureCount": 16,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 4,
-    "totalBattleVictoryCount": 6,
+    "totalBattleVictoryCount": 8,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 5,
+    "totalPvWBattleVictoryCount": 7,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
       "normal": 3,
-      "grass": 3,
+      "grass": 4,
       "dark": 3,
-      "ghost": 5,
+      "ghost": 6,
       "steel": 3,
-      "fire": 2
+      "fire": 2,
+      "bug": 2,
+      "flying": 1,
+      "fighting": 1
     },
     "totalDefeatedCounts": {
-      "cobblemon:staravia": 1
+      "cobblemon:staravia": 1,
+      "cobblemon:dreepy": 1
     },
     "aspectsCollected": {}
   }

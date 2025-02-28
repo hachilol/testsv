@@ -12,11 +12,14 @@
       "minecraft:sunflower_plains": "2025-02-28 01:42:58 +0000",
       "minecraft:birch_forest": "2025-02-28 02:04:12 +0000",
       "minecraft:beach": "2025-02-28 02:07:16 +0000",
+      "minecraft:sparse_jungle": "2025-02-28 03:39:31 +0000",
       "minecraft:river": "2025-02-28 01:59:08 +0000",
+      "minecraft:dripstone_caves": "2025-02-28 03:16:43 +0000",
       "minecraft:forest": "2025-02-28 01:53:45 +0000",
       "minecraft:ocean": "2025-02-28 01:53:54 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-28 02:13:08 +0000",
       "minecraft:meadow": "2025-02-28 02:11:18 +0000",
+      "minecraft:savanna": "2025-02-28 03:37:29 +0000",
       "minecraft:plains": "2025-02-28 01:42:30 +0000"
     },
     "done": false
@@ -640,7 +643,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-28 02:00:24 +0000",
-      "minecraft:spider": "2025-02-28 02:19:33 +0000"
+      "minecraft:spider": "2025-02-28 02:19:33 +0000",
+      "minecraft:creeper": "2025-02-28 03:17:07 +0000",
+      "minecraft:zombie": "2025-02-28 03:08:08 +0000"
     },
     "done": false
   },
@@ -690,6 +695,7 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
+      "obtain_pinap_berry": "2025-02-28 03:38:39 +0000",
       "obtain_razz_berry": "2025-02-28 02:07:52 +0000",
       "obtain_oran_berry": "2025-02-28 02:06:20 +0000"
     },
@@ -1341,6 +1347,30 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-02-28 02:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-02-28 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:full_party": {
+    "criteria": {
+      "full_party": "2025-02-28 03:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-02-28 03:39:50 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/amulet_coin": {
+    "criteria": {
+      "is_rich": "2025-02-28 03:39:50 +0000"
     },
     "done": true
   },
