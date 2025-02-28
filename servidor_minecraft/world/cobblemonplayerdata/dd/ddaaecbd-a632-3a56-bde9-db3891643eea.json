@@ -8,12 +8,12 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 16,
+    "totalCaptureCount": 17,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 6,
-    "totalBattleVictoryCount": 8,
+    "totalBattleVictoryCount": 9,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 7,
+    "totalPvWBattleVictoryCount": 8,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -26,7 +26,8 @@
       "fire": 2,
       "bug": 2,
       "flying": 1,
-      "fighting": 1
+      "fighting": 1,
+      "rock": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:staravia": 1,

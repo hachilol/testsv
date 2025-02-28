@@ -915,3 +915,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Feb2025 04:30:57.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Set own game mode to Survival Mode]
 [28Feb2025 04:33:13.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Set own game mode to Creative Mode]
 [28Feb2025 04:34:39.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Set own game mode to Survival Mode]
+[28Feb2025 04:47:32.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Set own game mode to Creative Mode]
+[28Feb2025 04:47:44.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Applied enchantment Efficiency V to Och8Z's item]
+[28Feb2025 04:47:55.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Applied enchantment Unbreaking III to Och8Z's item]
+[28Feb2025 04:48:10.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Applied enchantment Fortune III to Och8Z's item]
+[28Feb2025 04:48:12.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Set own game mode to Survival Mode]
