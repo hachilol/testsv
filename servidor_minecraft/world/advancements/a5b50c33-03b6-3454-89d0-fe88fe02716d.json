@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:cherry_grove": "2025-02-28 01:44:47 +0000",
       "minecraft:sunflower_plains": "2025-02-28 01:42:38 +0000",
+      "minecraft:birch_forest": "2025-02-28 02:55:43 +0000",
       "minecraft:river": "2025-02-28 02:12:55 +0000",
       "minecraft:forest": "2025-02-28 01:55:05 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-28 02:16:40 +0000",
@@ -19,8 +20,11 @@
   },
   "cobblemon:craft_all_balls": {
     "criteria": {
+      "verdant_ball": "2025-02-28 02:41:24 +0000",
+      "slate_ball": "2025-02-28 02:58:06 +0000",
       "poke_ball": "2025-02-28 01:44:11 +0000",
-      "master_ball": "2025-02-28 01:42:18 +0000"
+      "master_ball": "2025-02-28 01:42:18 +0000",
+      "premier_ball": "2025-02-28 02:58:08 +0000"
     },
     "done": false
   },
@@ -50,7 +54,10 @@
   },
   "cobblemon:craft_base_balls": {
     "criteria": {
-      "poke_ball": "2025-02-28 01:44:11 +0000"
+      "slate_ball": "2025-02-28 02:58:06 +0000",
+      "poke_ball": "2025-02-28 01:44:11 +0000",
+      "premier_ball": "2025-02-28 02:58:08 +0000",
+      "verdant_ball": "2025-02-28 02:41:24 +0000"
     },
     "done": false
   },
@@ -464,9 +471,11 @@
   },
   "cobblemon:recipes/balls/repeat_ball": {
     "criteria": {
-      "has_black_apricorn": "2025-02-28 01:54:35 +0000"
+      "has_black_apricorn": "2025-02-28 01:54:35 +0000",
+      "has_yellow_apricorn": "2025-02-28 03:03:24 +0000",
+      "has_red_apricorn": "2025-02-28 02:39:28 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/heavy_ball": {
     "criteria": {
@@ -478,9 +487,11 @@
   "cobblemon:recipes/balls/moon_ball": {
     "criteria": {
       "has_blue_apricorn": "2025-02-28 01:55:12 +0000",
-      "has_black_apricorn": "2025-02-28 01:54:35 +0000"
+      "has_black_apricorn": "2025-02-28 01:54:35 +0000",
+      "has_white_apricorn": "2025-02-28 02:55:55 +0000",
+      "has_yellow_apricorn": "2025-02-28 03:03:24 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/dusk_ball": {
     "criteria": {
@@ -491,13 +502,16 @@
   },
   "cobblemon:recipes/balls/ultra_ball": {
     "criteria": {
-      "has_black_apricorn": "2025-02-28 01:54:35 +0000"
+      "has_black_apricorn": "2025-02-28 01:54:35 +0000",
+      "has_yellow_apricorn": "2025-02-28 03:03:24 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/level_ball": {
     "criteria": {
-      "has_black_apricorn": "2025-02-28 01:54:35 +0000"
+      "has_black_apricorn": "2025-02-28 01:54:35 +0000",
+      "has_red_apricorn": "2025-02-28 02:39:28 +0000",
+      "has_yellow_apricorn": "2025-02-28 03:03:24 +0000"
     },
     "done": false
   },
@@ -522,21 +536,26 @@
   "cobblemon:recipes/balls/net_ball": {
     "criteria": {
       "has_blue_apricorn": "2025-02-28 01:55:12 +0000",
-      "has_black_apricorn": "2025-02-28 01:54:35 +0000"
+      "has_black_apricorn": "2025-02-28 01:54:35 +0000",
+      "has_white_apricorn": "2025-02-28 02:55:55 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/luxury_ball": {
     "criteria": {
-      "has_black_apricorn": "2025-02-28 01:54:35 +0000"
+      "has_black_apricorn": "2025-02-28 01:54:35 +0000",
+      "has_yellow_apricorn": "2025-02-28 03:03:24 +0000",
+      "has_red_apricorn": "2025-02-28 02:39:28 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/timer_ball": {
     "criteria": {
-      "has_black_apricorn": "2025-02-28 01:54:35 +0000"
+      "has_black_apricorn": "2025-02-28 01:54:35 +0000",
+      "has_white_apricorn": "2025-02-28 02:55:55 +0000",
+      "has_red_apricorn": "2025-02-28 02:39:28 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/blocks/apricorn_planks": {
     "criteria": {
@@ -558,27 +577,31 @@
   },
   "cobblemon:recipes/balls/dive_ball": {
     "criteria": {
-      "has_blue_apricorn": "2025-02-28 01:55:12 +0000"
+      "has_blue_apricorn": "2025-02-28 01:55:12 +0000",
+      "has_white_apricorn": "2025-02-28 02:55:55 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/dream_ball": {
     "criteria": {
-      "has_blue_apricorn": "2025-02-28 01:55:12 +0000"
+      "has_blue_apricorn": "2025-02-28 01:55:12 +0000",
+      "has_red_apricorn": "2025-02-28 02:39:28 +0000"
     },
     "done": false
   },
   "cobblemon:recipes/balls/great_ball": {
     "criteria": {
-      "has_blue_apricorn": "2025-02-28 01:55:12 +0000"
+      "has_blue_apricorn": "2025-02-28 01:55:12 +0000",
+      "has_red_apricorn": "2025-02-28 02:39:28 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/quick_ball": {
     "criteria": {
-      "has_blue_apricorn": "2025-02-28 01:55:12 +0000"
+      "has_blue_apricorn": "2025-02-28 01:55:12 +0000",
+      "has_yellow_apricorn": "2025-02-28 03:03:24 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/azure_ball": {
     "criteria": {
@@ -589,9 +612,10 @@
   "cobblemon:recipes/balls/lure_ball": {
     "criteria": {
       "has_blue_apricorn": "2025-02-28 01:55:12 +0000",
-      "has_green_apricorn": "2025-02-28 02:16:42 +0000"
+      "has_green_apricorn": "2025-02-28 02:16:42 +0000",
+      "has_red_apricorn": "2025-02-28 02:39:28 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
@@ -697,6 +721,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-02-28 02:59:07 +0000",
+      "minecraft:creeper": "2025-02-28 02:50:42 +0000",
       "minecraft:zombie": "2025-02-28 01:58:31 +0000"
     },
     "done": false
@@ -818,24 +844,6 @@
     },
     "done": true
   },
-  "cobblemon:recipes/agriculture/green_apricorn_smelt_to_dye": {
-    "criteria": {
-      "has_apricorn": "2025-02-28 02:16:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2025-02-28 02:16:39 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/balls/nest_ball": {
-    "criteria": {
-      "has_green_apricorn": "2025-02-28 02:16:42 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/sugar_from_honey_bottle": {
     "criteria": {
       "has_honey_bottle": "2025-02-28 02:16:36 +0000"
@@ -845,6 +853,72 @@
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2025-02-28 02:16:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-02-28 02:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-02-28 02:16:39 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/green_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-02-28 02:16:42 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/nest_ball": {
+    "criteria": {
+      "has_green_apricorn": "2025-02-28 02:16:42 +0000",
+      "has_yellow_apricorn": "2025-02-28 03:03:24 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/safari_ball": {
+    "criteria": {
+      "has_green_apricorn": "2025-02-28 02:16:42 +0000",
+      "has_white_apricorn": "2025-02-28 02:55:55 +0000",
+      "has_yellow_apricorn": "2025-02-28 03:03:24 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/friend_ball": {
+    "criteria": {
+      "has_green_apricorn": "2025-02-28 02:16:42 +0000",
+      "has_yellow_apricorn": "2025-02-28 03:03:24 +0000",
+      "has_red_apricorn": "2025-02-28 02:39:28 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/park_ball": {
+    "criteria": {
+      "has_green_apricorn": "2025-02-28 02:16:42 +0000",
+      "has_red_apricorn": "2025-02-28 02:39:28 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/verdant_ball": {
+    "criteria": {
+      "has_green_apricorn": "2025-02-28 02:16:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-02-28 02:20:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-02-28 02:20:18 +0000"
     },
     "done": true
   },
@@ -860,45 +934,348 @@
     },
     "done": true
   },
-  "cobblemon:recipes/balls/safari_ball": {
+  "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
-      "has_green_apricorn": "2025-02-28 02:16:42 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_hay_block": "2025-02-28 02:20:18 +0000"
+      "has_iron_ingot": "2025-02-28 02:50:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_planks": {
+  "cobblemon:recipes/blocks/healing_machine": {
     "criteria": {
-      "has_logs": "2025-02-28 02:16:39 +0000"
+      "has_copper_ingot": "2025-02-28 02:41:20 +0000"
     },
     "done": true
   },
-  "cobblemon:recipes/balls/friend_ball": {
+  "cobblemon:recipes/balls/heal_ball": {
     "criteria": {
-      "has_green_apricorn": "2025-02-28 02:16:42 +0000"
+      "has_white_apricorn": "2025-02-28 02:55:55 +0000"
     },
     "done": false
   },
-  "cobblemon:recipes/balls/park_ball": {
+  "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
-      "has_green_apricorn": "2025-02-28 02:16:42 +0000"
-    },
-    "done": false
-  },
-  "cobblemon:recipes/balls/verdant_ball": {
-    "criteria": {
-      "has_green_apricorn": "2025-02-28 02:16:42 +0000"
+      "has_iron_ingot": "2025-02-28 02:50:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/wheat": {
+  "cobblemon:recipes/balls/premier_ball": {
     "criteria": {
-      "has_hay_block": "2025-02-28 02:20:18 +0000"
+      "has_white_apricorn": "2025-02-28 02:55:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-28 02:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-28 02:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-28 02:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-28 02:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-02-28 02:47:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-28 02:50:13 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/love_ball": {
+    "criteria": {
+      "has_white_apricorn": "2025-02-28 02:55:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-28 02:47:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-02-28 02:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-02-28 02:40:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-28 02:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-02-28 02:35:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-28 02:47:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-28 02:41:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-28 02:50:13 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:harvest_apricorn_seed": {
+    "criteria": {
+      "check_inv": "2025-02-28 02:55:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-28 02:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-28 02:50:13 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/yellow_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-02-28 03:03:24 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/red_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-02-28 02:39:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-28 02:47:06 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/pc": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-28 02:50:13 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/fast_ball": {
+    "criteria": {
+      "has_white_apricorn": "2025-02-28 02:55:55 +0000",
+      "has_red_apricorn": "2025-02-28 02:39:28 +0000",
+      "has_yellow_apricorn": "2025-02-28 03:03:24 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/cell_battery": {
+    "criteria": {
+      "has_copper": "2025-02-28 02:41:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-28 02:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-28 02:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-28 02:41:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-28 02:50:13 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/citrine_ball": {
+    "criteria": {
+      "has_yellow_apricorn": "2025-02-28 03:03:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-28 02:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-28 02:47:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-28 02:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-28 02:41:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-28 02:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-28 02:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-28 02:47:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-28 02:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-02-28 02:47:06 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/white_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-02-28 02:55:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-28 02:50:13 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/sport_ball": {
+    "criteria": {
+      "has_white_apricorn": "2025-02-28 02:55:55 +0000",
+      "has_red_apricorn": "2025-02-28 02:39:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-28 02:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-28 02:50:13 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/metal_coat": {
+    "criteria": {
+      "has_iron": "2025-02-28 02:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-02-28 02:47:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-02-28 02:47:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-28 02:47:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-02-28 02:50:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-02-28 02:50:42 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/poke_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-02-28 02:39:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-28 02:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-28 02:50:13 +0000"
     },
     "done": true
   },
