@@ -40,6 +40,7 @@
   "cobblemon:craft_all_balls": {
     "criteria": {
       "quick_ball": "2025-02-28 05:02:47 +0000",
+      "timer_ball": "2025-02-28 05:11:30 +0000",
       "verdant_ball": "2025-02-28 02:46:26 +0000",
       "ultra_ball": "2025-02-28 05:04:42 +0000",
       "poke_ball": "2025-02-28 01:44:33 +0000"
@@ -1873,6 +1874,12 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-02-28 04:48:50 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:healing_machine": {
+    "criteria": {
+      "use_healing_machine": "2025-02-28 05:06:52 +0000"
     },
     "done": true
   },

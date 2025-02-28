@@ -933,3 +933,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Feb2025 05:04:16.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Set own game mode to Creative Mode]
 [28Feb2025 05:04:29.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Set own game mode to Survival Mode]
 [28Feb2025 05:06:52.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Healing Power]
+[28Feb2025 05:10:00.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Set own game mode to Creative Mode]
+[28Feb2025 05:11:40.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Set own game mode to Survival Mode]
+[28Feb2025 05:14:36.793] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: d992b018-5630-43a2-8a77-d83211a89a7b
+[28Feb2025 05:14:36.794] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: d992b018-5630-43a2-8a77-d83211a89a7b
+[28Feb2025 05:18:47.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Teleported Och8Z to 268.500000, 71.500000, 1535.500000]
