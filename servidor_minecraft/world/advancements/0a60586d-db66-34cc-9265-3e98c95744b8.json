@@ -400,18 +400,6 @@
     },
     "done": true
   },
-  "usefulbackpacks:recipes/backpack_small": {
-    "criteria": {
-      "has_wool": "2025-02-23 00:50:16 +0000"
-    },
-    "done": true
-  },
-  "usefulbackpacks:recipes/filter_configurator": {
-    "criteria": {
-      "has_wool": "2025-02-23 00:50:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/brown_glazed_terracotta": {
     "criteria": {
       "has_brown_terracotta": "2025-02-23 00:50:16 +0000"
@@ -2550,15 +2538,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-28 00:18:51 +0000"
+    },
+    "done": true
+  },
   "cobblemon:root": {
     "criteria": {
       "picked_starter": "2025-02-28 00:20:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+  "cobblemon:recipes/blocks/pasture": {
     "criteria": {
-      "has_book": "2025-02-28 00:18:51 +0000"
+      "has_pc": "2025-02-28 00:38:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-02-28 00:59:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-02-28 00:59:20 +0000"
     },
     "done": true
   },
