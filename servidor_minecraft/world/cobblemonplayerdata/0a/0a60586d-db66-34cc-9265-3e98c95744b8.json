@@ -1,8 +1,9 @@
 {
   "uuid": "0a60586d-db66-34cc-9265-3e98c95744b8",
-  "starterPrompted": false,
+  "starterPrompted": true,
   "starterLocked": false,
-  "starterSelected": false,
+  "starterSelected": true,
+  "starterUUID": "4f5ff599-c8d5-46a7-b59b-71777744ff71",
   "keyItems": [],
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},

@@ -11,12 +11,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2025-02-27 23:58:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-02-23 00:42:12 +0000"
@@ -301,12 +295,6 @@
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-02-23 00:47:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_sign": {
-    "criteria": {
-      "has_planks": "2025-02-27 23:57:59 +0000"
     },
     "done": true
   },
@@ -2250,21 +2238,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2025-02-28 00:01:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-02-24 21:56:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-02-28 00:02:20 +0000"
     },
     "done": true
   },
@@ -2424,29 +2400,41 @@
     },
     "done": true
   },
-  "cobblemon:recipes/balls/dream_ball": {
+  "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
-      "has_red_apricorn": "2025-02-28 00:01:34 +0000"
+      "has_planks": "2025-02-27 23:57:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-02-27 23:58:00 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:healing_machine": {
+    "criteria": {
+      "use_healing_machine": "2025-02-27 23:58:29 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/beast_ball": {
+    "criteria": {
+      "has_diamond": "2025-02-27 23:58:56 +0000"
     },
     "done": false
   },
-  "cobblemon:recipes/balls/repeat_ball": {
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
-      "has_red_apricorn": "2025-02-28 00:01:34 +0000"
+      "has_sugar_cane": "2025-02-28 00:01:20 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/transportation/apricorn_boat": {
     "criteria": {
       "in_water": "2025-02-28 00:01:28 +0000"
     },
     "done": true
-  },
-  "cobblemon:recipes/balls/level_ball": {
-    "criteria": {
-      "has_red_apricorn": "2025-02-28 00:01:34 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
@@ -2459,6 +2447,30 @@
       "in_water": "2025-02-28 00:01:28 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-02-28 00:01:28 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/dream_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-02-28 00:01:34 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/repeat_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-02-28 00:01:34 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/level_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-02-28 00:01:34 +0000"
+    },
+    "done": false
   },
   "cobblemon:harvest_apricorn": {
     "criteria": {
@@ -2481,12 +2493,6 @@
   "cobblemon:any_plant": {
     "criteria": {
       "check_inv": "2025-02-28 00:01:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2025-02-28 00:01:28 +0000"
     },
     "done": true
   },
@@ -2520,21 +2526,9 @@
     },
     "done": false
   },
-  "cobblemon:healing_machine": {
-    "criteria": {
-      "use_healing_machine": "2025-02-27 23:58:29 +0000"
-    },
-    "done": true
-  },
   "cobblemon:recipes/balls/timer_ball": {
     "criteria": {
       "has_red_apricorn": "2025-02-28 00:01:34 +0000"
-    },
-    "done": false
-  },
-  "cobblemon:recipes/balls/beast_ball": {
-    "criteria": {
-      "has_diamond": "2025-02-27 23:58:56 +0000"
     },
     "done": false
   },
@@ -2547,6 +2541,24 @@
   "cobblemon:recipes/balls/poke_ball": {
     "criteria": {
       "has_red_apricorn": "2025-02-28 00:01:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-02-28 00:02:20 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:root": {
+    "criteria": {
+      "picked_starter": "2025-02-28 00:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-28 00:18:51 +0000"
     },
     "done": true
   },

@@ -2610,5 +2610,101 @@
     },
     "done": true
   },
+  "cobblemon:recipes/held/muscle_band": {
+    "criteria": {
+      "has_wool": "2025-02-28 00:18:40 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/flame_orb": {
+    "criteria": {
+      "has_orb": "2025-02-28 00:19:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-02-28 00:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-28 00:19:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-02-28 00:18:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-28 00:18:51 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/electirizer": {
+    "criteria": {
+      "has_redstone": "2025-02-28 00:18:58 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/toxic_orb": {
+    "criteria": {
+      "has_orb": "2025-02-28 00:19:19 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/magnet": {
+    "criteria": {
+      "has_redstone": "2025-02-28 00:18:58 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/gilded_chests": {
+    "criteria": {
+      "has_gold": "2025-02-28 00:19:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-02-28 00:18:55 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/exp_share": {
+    "criteria": {
+      "has_exp": "2025-02-28 00:19:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-02-28 00:19:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-02-28 00:19:27 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/beast_ball": {
+    "criteria": {
+      "has_diamond": "2025-02-28 00:18:41 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/held/life_orb": {
+    "criteria": {
+      "has_orb": "2025-02-28 00:19:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

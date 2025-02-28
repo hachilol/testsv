@@ -29,3 +29,60 @@
 [28Feb2025 00:08:41.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Cleared alejandro946's party and PC.]
 [28Feb2025 00:09:25.632] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Peter_rola14 lost connection: Disconnected
 [28Feb2025 00:09:25.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peter_rola14 left the game
+[28Feb2025 00:10:27.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Cleared Och8Z's PC.]
+[28Feb2025 00:10:32.390] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: Invalid box number 0. Should be between 0 and 0
+	at com.cobblemon.mod.common.api.storage.pc.PCStore.setAtPosition(PCStore.java:235) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23118!/:?]
+	at com.cobblemon.mod.common.api.storage.pc.PCStore.setAtPosition(PCStore.java:43) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23118!/:?]
+	at com.cobblemon.mod.common.api.storage.PokemonStore.set(PokemonStore.java:94) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23118!/:?]
+	at com.cobblemon.mod.common.api.storage.pc.PCStore.set(PCStore.java:179) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23118!/:?]
+	at com.cobblemon.mod.common.net.serverhandling.storage.pc.MovePartyPokemonToPCHandler.handle(MovePartyPokemonToPCHandler.java:32) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23118!/:?]
+	at com.cobblemon.mod.common.net.serverhandling.storage.pc.MovePartyPokemonToPCHandler.handle(MovePartyPokemonToPCHandler.java:19) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23118!/:?]
+	at com.cobblemon.mod.common.api.net.ServerNetworkPacketHandler$DefaultImpls.handleOnNettyThread$lambda$0(ServerNetworkPacketHandler.java:19) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23118!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23127!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23127!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23127!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23127!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23127!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23127!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23127!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23127!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23127!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23127!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23127!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23127!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[28Feb2025 00:10:49.242] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Peter_rola14[/127.227.82.151:41569] logged in with entity id 6184 at (824.1895970878967, 64.0, -69.52236552241882)
+[28Feb2025 00:10:49.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peter_rola14 joined the game
+[28Feb2025 00:10:50.880] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alejandro946 lost connection: Disconnected
+[28Feb2025 00:10:50.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 left the game
+[28Feb2025 00:14:51.582] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Peter_rola14 lost connection: Disconnected
+[28Feb2025 00:14:51.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peter_rola14 left the game
+[28Feb2025 00:16:24.190] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Peter_rola14[/127.227.82.151:58175] logged in with entity id 6724 at (835.5188086262123, 64.0, -70.26752119830758)
+[28Feb2025 00:16:24.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peter_rola14 joined the game
+[28Feb2025 00:17:01.182] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Peter_rola14 lost connection: Disconnected
+[28Feb2025 00:17:01.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peter_rola14 left the game
+[28Feb2025 00:18:14.190] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Peter_rola14[/127.227.82.151:54223] logged in with entity id 6755 at (823.9661186360343, 64.0, -72.75264274132651)
+[28Feb2025 00:18:14.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peter_rola14 joined the game
+[28Feb2025 00:18:37.388] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@15655033[id=<null>,name=alejandro946,properties={},legacy=false] (/127.160.163.203:56211) lost connection: Disconnected
+[28Feb2025 00:18:41.790] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alejandro946[/127.160.163.203:42259] logged in with entity id 6770 at (824.2480145104834, 64.0, -72.41681375096078)
+[28Feb2025 00:18:41.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 joined the game
+[28Feb2025 00:19:37.783] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Och8Z lost connection: Disconnected
+[28Feb2025 00:19:37.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z left the game
+[28Feb2025 00:20:05.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [The World of Cobblemon!]
+[28Feb2025 00:20:05.980] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Peter_rola14 lost connection: Disconnected
+[28Feb2025 00:20:05.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peter_rola14 left the game
+[28Feb2025 00:20:07.580] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alejandro946 lost connection: Disconnected
+[28Feb2025 00:20:07.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 left the game
+[28Feb2025 00:20:14.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[28Feb2025 00:20:14.883] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[28Feb2025 00:20:14.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Feb2025 00:20:14.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Feb2025 00:20:14.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Feb2025 00:20:15.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[28Feb2025 00:20:15.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[28Feb2025 00:20:15.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[28Feb2025 00:20:15.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28Feb2025 00:20:15.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Feb2025 00:20:15.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Feb2025 00:20:15.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

@@ -1660,6 +1660,7 @@
   },
   "cobblemon:craft_all_balls": {
     "criteria": {
+      "quick_ball": "2025-02-28 00:14:52 +0000",
       "ultra_ball": "2025-02-27 23:43:16 +0000",
       "poke_ball": "2025-02-27 22:02:22 +0000",
       "master_ball": "2025-02-27 21:53:29 +0000"
