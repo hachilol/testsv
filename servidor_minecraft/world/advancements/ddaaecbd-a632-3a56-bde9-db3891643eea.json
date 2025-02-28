@@ -2567,5 +2567,47 @@
     },
     "done": true
   },
+  "cobblemon:full_party": {
+    "criteria": {
+      "full_party": "2025-02-27 23:49:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-02-27 23:55:06 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/relic_coin_pouch": {
+    "criteria": {
+      "has_coin": "2025-02-28 00:03:48 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/fine_remedy": {
+    "criteria": {
+      "has_remedy": "2025-02-28 00:03:49 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:craft_remedy": {
+    "criteria": {
+      "check_inv": "2025-02-28 00:03:49 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/automaton_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-28 00:03:52 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/automaton_armor_trim_smithing_template": {
+    "criteria": {
+      "has_automaton_armor_trim_smithing_template": "2025-02-28 00:03:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
