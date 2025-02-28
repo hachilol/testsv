@@ -970,3 +970,43 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Feb2025 06:26:50.984] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1bb675a0[id=<null>,name=Och8Z,properties={},legacy=false] (/127.10.249.163:32769) lost connection: Disconnected
 [28Feb2025 06:27:12.979] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Och8Z[/127.10.249.163:37659] logged in with entity id 46217 at (3731.718973642009, 116.00133597911214, 4766.377804166739)
 [28Feb2025 06:27:13.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z joined the game
+[28Feb2025 06:30:28.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Set own game mode to Spectator Mode]
+[28Feb2025 06:30:36.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Set own game mode to Survival Mode]
+[28Feb2025 06:33:23.242] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[28Feb2025 06:33:46.193] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4061, y=101, z=4363} BlockPos{x=4062, y=103, z=4363}
+[28Feb2025 06:33:48.493] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4059, y=101, z=4364} BlockPos{x=4059, y=102, z=4364}
+[28Feb2025 06:34:33.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Och8Z moved too quickly! -1.4646062942110802,5.996983738490954,-7.892977707983846
+[28Feb2025 06:39:04.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Fully healed Och8Z's party.]
+[28Feb2025 06:39:13.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Och8Z moved too quickly! -2.3258944628746576,1.1661092609382138,-9.941214055640557
+[28Feb2025 06:39:13.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Fully healed Och8Z's party.]
+[28Feb2025 06:46:49.453] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3450, y=68, z=2837} BlockPos{x=3449, y=68, z=2837}
+[28Feb2025 06:49:24.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Set own game mode to Creative Mode]
+[28Feb2025 06:53:35.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Och8Z moved too quickly! 7.125802924418167,3.3028347952812567,6.718258004328163
+[28Feb2025 06:55:48.340] [Worker-Main-110/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[28Feb2025 06:55:48.345] [Worker-Main-110/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[28Feb2025 06:55:48.346] [Worker-Main-110/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[28Feb2025 06:56:58.581] [Worker-Main-110/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[28Feb2025 06:56:58.581] [Worker-Main-110/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[28Feb2025 06:56:58.601] [Worker-Main-110/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[28Feb2025 07:00:29.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Set own game mode to Survival Mode]
+[28Feb2025 07:00:42.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Set own game mode to Creative Mode]
+[28Feb2025 07:01:34.539] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Och8Z lost connection: Disconnected
+[28Feb2025 07:01:34.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z left the game
+[28Feb2025 07:01:37.907] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Och8Z[/127.10.249.163:52435] logged in with entity id 69465 at (6569.768384897669, 64.0, 5867.689967242998)
+[28Feb2025 07:01:38.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z joined the game
+[28Feb2025 07:02:12.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Teleported Och8Z to 268.500000, 71.500000, 1535.500000]
+[28Feb2025 07:02:27.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Och8Z: Set own game mode to Survival Mode]
+[28Feb2025 07:03:22.639] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Och8Z lost connection: Disconnected
+[28Feb2025 07:03:22.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z left the game
+[28Feb2025 07:03:30.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[28Feb2025 07:03:30.150] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[28Feb2025 07:03:30.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Feb2025 07:03:30.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Feb2025 07:03:30.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Feb2025 07:03:30.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[28Feb2025 07:03:30.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[28Feb2025 07:03:30.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[28Feb2025 07:03:30.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28Feb2025 07:03:30.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Feb2025 07:03:30.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Feb2025 07:03:30.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
