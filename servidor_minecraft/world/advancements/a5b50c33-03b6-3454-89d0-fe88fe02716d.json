@@ -1291,27 +1291,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-02-28 03:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-02-28 03:13:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-02-28 03:13:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+  "cobblemon:recipes/balls/roseate_ball": {
     "criteria": {
-      "has_chicken": "2025-02-28 03:40:00 +0000"
+      "has_pink_apricorn": "2025-02-28 03:21:10 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/pink_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-02-28 03:21:10 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:first_evolution": {
+    "criteria": {
+      "evolve": "2025-02-28 03:28:06 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-02-28 03:33:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2025-02-28 03:40:00 +0000"
     },
     "done": true
   },
@@ -1333,12 +1351,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2025-02-28 03:13:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-28 03:33:10 +0000"
@@ -1351,27 +1363,9 @@
     },
     "done": true
   },
-  "cobblemon:recipes/balls/roseate_ball": {
-    "criteria": {
-      "has_pink_apricorn": "2025-02-28 03:21:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-02-28 03:33:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-02-28 03:13:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-02-28 03:40:00 +0000"
     },
     "done": true
   },
@@ -1387,17 +1381,30 @@
     },
     "done": true
   },
-  "cobblemon:recipes/agriculture/pink_apricorn_smelt_to_dye": {
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
-      "has_apricorn": "2025-02-28 03:21:10 +0000"
+      "has_chicken": "2025-02-28 03:40:00 +0000"
     },
     "done": true
   },
-  "cobblemon:first_evolution": {
+  "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
-      "evolve": "2025-02-28 03:28:06 +0000"
+      "has_chicken": "2025-02-28 03:40:00 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-02-28 03:40:00 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:rainbow_apricorns": {
+    "criteria": {
+      "place_black": "2025-02-28 04:22:47 +0000",
+      "place_pink": "2025-02-28 04:23:10 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
